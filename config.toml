@@ -39,7 +39,7 @@ theme = "hugo-agency-theme"
 		brand = "SoCraTes IT 2019"
 		services = "What it is about?"
 		portfolio = "Information"
-		contact = "Registration"
+		contact = "Register now"
 		sponsors = "Sponsors"
 
 	# Add custom links. Those can be pre- and postpended to the default menu above.

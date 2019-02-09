@@ -14,7 +14,7 @@ body {
 }
 
 .text-primary {
-    color: #fed136;
+    color: green;
 }
 
 p {
@@ -383,6 +383,14 @@ section h3.section-subheading {
 .service-heading {
     margin: 15px 0;
     text-transform: none;
+}
+
+#services .text-muted {
+    text-align: justify;
+}
+
+#services .section-subheading {
+    text-align: center;
 }
 
 #portfolio .portfolio-item {

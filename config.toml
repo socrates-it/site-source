@@ -39,6 +39,7 @@ theme = "hugo-agency-theme"
 		brand = "SoCraTes IT 2019"
 		services = "It is about"
 		portfolio = "Information"
+    team = "Partners"
 		contact = "Register now"
 		sponsors = "Sponsors"
 
@@ -110,8 +111,96 @@ theme = "hugo-agency-theme"
 		enable = false
 
 	# Team section
-	[params.team]
-		enable = false
+  [params.team]
+		enable = true
+		title = "SoCraTes-FR is a part of a big family."
+		subtitle = "The first “Software Craftsmanship and Testing (un)conference” took place a few years ago in Germany and is organised every year since 2011."
+		description = "Other conferences have emerged in other European countries such as SoCraTes UK and SoCraTes Canaries."
+
+
+		# All team member's pictures are stored under 'static/img/team'.
+		# Replace them with your own too.
+		[[params.team.members]]
+			img = "SoCraTes_FR.png"
+			name = "SoCraTes FR"
+			position = "France"
+			social = [
+				["fa-twitter", "https://twitter.com/#socratesfr"],
+				["fa-link", "https://socrates-it-test.github.io"]
+			]
+
+		[[params.team.members]]
+			img = "SoCraTes.png"
+			name = "SoCraTes"
+			position = "Germany"
+			social = [
+				["fa-twitter", "https://twitter.com/socrates_2016"],
+				["fa-link", "https://www.socrates-conference.de"]
+			]
+
+		[[params.team.members]]
+			img = "SoCraTes_UK.png"
+			name = "SoCraTes UK"
+			position = "United Kingdom"
+			social = [
+				["fa-twitter", "https://twitter.com/SoCraTes_UK"],
+				["fa-link", "http://socratesuk.org"]
+			]
+
+		[[params.team.members]]
+			img = "SoCraTes_ES.png"
+			name = "SoCraTes Canaries"
+			position = "Spain"
+			social = [
+				["fa-twitter", "https://twitter.com/#socracan16"],
+				["fa-link", "http://www.socrates-conference.es"]
+			]
+
+		[[params.team.members]]
+			img = "SoCraTesDay_CH.jpeg"
+			name = "SoCraTes Day Switzerland"
+			position = "Switzerland"
+			social = [
+				["fa-twitter", "https://twitter.com/SoCraTesDay_CH"],
+				["fa-link", "http://socrates-day.ch"]
+			]
+
+		[[params.team.members]]
+			img = "SoCraTes_BE.png"
+			name = "SoCraTes BE"
+			position = "Belgium"
+			social = [
+				["fa-twitter", "https://twitter.com/#SoCraTesBE"],
+				["fa-link", "http://socratesbe.org"]
+			]
+
+		[[params.team.members]]
+			img = "SoCraTes_IT.png"
+			name = "SoCraTes IT"
+			position = "Italy"
+			social = [
+				["fa-twitter", "https://twitter.com/SoCraTes_Italy"],
+				["fa-link", "http://www.socrates-conference.it"]
+			]
+
+		[[params.team.members]]
+			img = "CodeFreeze.png"
+			name = "CodeFreeze"
+			position = "Finland"
+			social = [
+				["fa-twitter", "https://twitter.com/codefreeze_fi"],
+				["fa-link", "http://www.codefreeze.fi"]
+			]
+
+		[[params.team.members]]
+			img = "ITAKE.png"
+			name = "I T.A.K.E. Unconference"
+			position = "Romania"
+			social = [
+				["fa-twitter", "https://twitter.com/itakeunconf"],
+				["fa-link", "http://itakeunconf.com"]
+			]
+
 
 	# Sponsor section
 	[params.sponsors]
@@ -185,6 +274,7 @@ theme = "hugo-agency-theme"
 			link = "http://www.test.fr"
 
 
+  # Contact section
 	[params.contact]
 		enable = true
 		title = "Registration"

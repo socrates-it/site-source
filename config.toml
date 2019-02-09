@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "https://socrates-fr.github.io/"
+baseurl = "https://socrates-it-test.github.io/"
 languageCode = "en-us"
-title = "SoCraTes-FR"
+title = "SoCraTes-IT"
 theme = "hugo-agency-theme"
 # Enter your tracking code to enable Google Analytics
 #googleAnalytics = "UA-60791139-1"
@@ -17,7 +17,7 @@ theme = "hugo-agency-theme"
 
 	# To provide some metadata for search engines feel free to add a few
 	# information about you and your website.
-	name = "SoCraTes FRance"
+	name = "SoCraTes ITaly"
 	description = "International Software Craftsmanship and Testing Conference"
 
 	# Since this template is static, the contact form uses www.formspree.io as a
@@ -29,14 +29,14 @@ theme = "hugo-agency-theme"
 	# - set your email address under 'email' below
 	# - upload the generated site to your server
 	# - send a dummy email yourself to confirm your account
-	# - click the confirm link in the email from www.formspree.io
+	# - click the confirm link in the email from www.formspree.ioS
 	# - you're done. Happy mailing!
 	email = "test@gmail.com"
 	gforms = "153aAnAaKBsFqusTKXvyZjpgHbKx4LrhPVtn8VubkNKM"
 
 	# Navigation
 	[params.navigation]
-		brand = "SoCraTes FRance 2018"
+		brand = "SoCraTes ITaly 2019"
 		services = "What it is about?"
 		portfolio = "Information"
 		about = "History"
@@ -56,15 +56,15 @@ theme = "hugo-agency-theme"
 
 	# postpended links
 	[[menu.postpend]]
-		url = "https://github.com/SoCraTes-FR/socrates-fr.github.io/wiki"
+		url = "https://github.com/SoCraTes-it-test/socrates-it-test.github.io"
 		name = "Wiki"
 
 	# Hero section
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "October 25-28th, 2018.<br>International Software Craftsmanship and Testing Conference."
-		subtitle = "SoCraTes FRance 2018"
+		title = "April 26-27th, 2019.<br>International Software Craftsmanship and Testing Conference."
+		subtitle = "SoCraTes ITaly 2019"
 		buttontext = "Tell me more"
 
 	# Services section
@@ -159,7 +159,7 @@ theme = "hugo-agency-theme"
 			position = "France"
 			social = [
 				["fa-twitter", "https://twitter.com/#socratesfr"],
-				["fa-link", "https://socrates-fr.github.io"]
+				["fa-link", "https://socrates-it-test.github.io"]
 			]
 
 		[[params.team.members]]

@@ -232,6 +232,7 @@ fieldset[disabled] .btn-xl.active {
 
 
 .navbar-nav li a.highlighted {
+    margin-left: 30px;
     border:1px solid red;
     border-color: red;
     background-color: red;
@@ -240,16 +241,16 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-nav li a.highlighted:hover,
 .navbar-nav li a.highlighted.active {
-    border:1px solid #fec503;
+    border:1px solid #ee0000;
     color:white;
-    background-color: #fec503;
+    background-color: #ee0000;
     border-radius: 22.5px;
 }
 
 .navbar-default .navbar-nav > .active > a.highlighted {
-    border:1px solid #fec503;
+    border:1px solid #ee0000;
     color:white;
-    background-color: #fec503;
+    background-color: #ee0000;
     border-radius: 22.5px;
 }
 

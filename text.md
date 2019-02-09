@@ -1,8 +1,8 @@
-# SoCraTes FRance 2016
+# SoCraTes Italy 2019
 
-SoCraTes FRance
+SoCraTes Italy
 
-October 27-30th, 2016.
+April 27-30th, 2019.
 International Software Craftsmanship and Testing Conference.
 
 

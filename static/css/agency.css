@@ -259,7 +259,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 20px 0;
         border: 0;
-        background-color: #000;
+        background-color: rgba(0,0,0,1);
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -288,7 +288,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #ffffff;
+    color: white; 
     background-attachment: scroll;
     background-image: url(../img/header-bg.jpg);
     background-position: center center;
@@ -311,6 +311,16 @@ header .intro-text .intro-lead-in {
     font-style: italic;
     line-height: 22px;
 }
+
+header .intro-text .intro-lead-in,
+header .intro-text .intro-heading {
+text-shadow:
+    -1px -1px 0 #444,
+    1px -1px 0 #444,
+    -1px 1px 0 #444,
+    1px 1px 0 #444;
+}
+
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;

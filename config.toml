@@ -17,7 +17,7 @@ theme = "hugo-agency-theme"
 
 	# To provide some metadata for search engines feel free to add a few
 	# information about you and your website.
-	name = "SoCraTes ITaly"
+	name = "SoCraTes IT"
 	description = "International Software Craftsmanship and Testing Conference"
 
 	# Since this template is static, the contact form uses www.formspree.io as a
@@ -36,7 +36,7 @@ theme = "hugo-agency-theme"
 
 	# Navigation
 	[params.navigation]
-		brand = "SoCraTes ITaly 2019"
+		brand = "SoCraTes IT 2019"
 		services = "What it is about?"
 		portfolio = "Information"
 		contact = "Registration"
@@ -62,7 +62,7 @@ theme = "hugo-agency-theme"
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
 		title = "April 26-27th, 2019.<br>International Software Craftsmanship and Testing Conference."
-		subtitle = "SoCraTes ITaly 2019"
+		subtitle = "SoCraTes IT 2019"
 		buttontext = "Tell me more"
 
 	# Services section

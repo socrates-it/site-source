@@ -37,7 +37,7 @@ theme = "hugo-agency-theme"
 	# Navigation
 	[params.navigation]
 		brand = "SoCraTes IT 2019"
-		services = "What it is about?"
+		services = "It is about"
 		portfolio = "Information"
 		contact = "Register now"
 		sponsors = "Sponsors"

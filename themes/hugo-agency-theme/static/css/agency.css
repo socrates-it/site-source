@@ -230,6 +230,30 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fec503;
 }
 
+
+.navbar-nav li a.highlighted {
+    border:1px solid red;
+    border-color: red;
+    background-color: red;
+    border-radius: 22.5px;
+}
+
+.navbar-nav li a.highlighted:hover,
+.navbar-nav li a.highlighted.active {
+    border:1px solid #fec503;
+    color:white;
+    background-color: #fec503;
+    border-radius: 22.5px;
+}
+
+.navbar-default .navbar-nav > .active > a.highlighted {
+    border:1px solid #fec503;
+    color:white;
+    background-color: #fec503;
+    border-radius: 22.5px;
+}
+
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;

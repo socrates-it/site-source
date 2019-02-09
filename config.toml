@@ -53,9 +53,9 @@ theme = "hugo-agency-theme"
 	#    weight = 10
 
 	# postpended links
-	[[menu.postpend]]
-		url = "https://github.com/SoCraTes-it-test/socrates-it-test.github.io"
-		name = "Wiki"
+	#[[menu.postpend]]
+	#	url = "https://github.com/SoCraTes-it-test/socrates-it-test.github.io"
+	#	name = "Wiki"
 
 	# Hero section
 	[params.hero]

@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:socretes-it-test/socrates-it-test.github.io.git
+	branch = master

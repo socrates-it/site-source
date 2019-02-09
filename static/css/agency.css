@@ -6,7 +6,9 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    /*font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+                 Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
 .text-muted {
@@ -33,7 +35,7 @@ a:active,
 a.active {
     outline: 0;
 }
-
+v
 a {
     color: #fed136;
 }

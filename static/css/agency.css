@@ -171,7 +171,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #334;
 }
 
 .navbar-default .navbar-brand {
@@ -230,11 +230,35 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fec503;
 }
 
+
+.navbar-nav li a.highlighted {
+    border:1px solid red;
+    border-color: red;
+    background-color: red;
+    border-radius: 22.5px;
+}
+
+.navbar-nav li a.highlighted:hover,
+.navbar-nav li a.highlighted.active {
+    border:1px solid #fec503;
+    color:white;
+    background-color: #fec503;
+    border-radius: 22.5px;
+}
+
+.navbar-default .navbar-nav > .active > a.highlighted {
+    border:1px solid #fec503;
+    color:white;
+    background-color: #fec503;
+    border-radius: 22.5px;
+}
+
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: transparent;
+        background-color: #334;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -263,7 +287,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #334;
     background-attachment: scroll;
     background-image: url(../img/header-bg.jpg);
     background-position: center center;

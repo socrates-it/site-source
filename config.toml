@@ -36,7 +36,7 @@ theme = "hugo-agency-theme"
 
 	# Navigation
 	[params.navigation]
-		brand = "SoCraTes IT 2019"
+		brand = "SoCraTes IT"
 		services = "It is about"
 		portfolio = "Information"
     team = "Partners"
@@ -63,7 +63,7 @@ theme = "hugo-agency-theme"
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
 		title = "April 26-27th, 2019.<br>International Software Craftsmanship and Testing Conference."
-		subtitle = "SoCraTes IT 2019"
+		subtitle = "SoCraTes IT"
 		buttontext = "Tell me more"
 
 	# Services section

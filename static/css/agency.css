@@ -6,7 +6,9 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    /*font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+                 Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
 .text-muted {
@@ -33,7 +35,7 @@ a:active,
 a.active {
     outline: 0;
 }
-
+v
 a {
     color: #fed136;
 }
@@ -308,7 +310,7 @@ header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
-    font-style: italic;
+    font-style: normal;
     line-height: 22px;
 }
 
@@ -341,7 +343,7 @@ header .intro-text .intro-heading {
         margin-bottom: 25px;
         font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 40px;
-        font-style: italic;
+        font-style: normal;
         line-height: 40px;
     }
 
@@ -370,7 +372,7 @@ section h3.section-subheading {
     text-transform: none;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
-    font-style: italic;
+    font-style: normal;
     font-weight: 400;
 }
 
@@ -457,7 +459,7 @@ section h3.section-subheading {
     margin: 0;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
-    font-style: italic;
+    font-style: normal;
 }
 
 #portfolio * {
@@ -855,7 +857,7 @@ ul.social-buttons li a:active {
     margin: 20px 0 30px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
-    font-style: italic;
+    font-style: normal;
 }
 
 .portfolio-modal .modal-content ul.list-inline {

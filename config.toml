@@ -65,7 +65,7 @@ theme = "hugo-agency-theme"
     date = "April, 26-27<sup>th</sup> 2019"
 		title = "SoCraTes IT"
 		subtitle = "Software Craftsmanship and Testing Conference"
-		buttontext = "Tell me more"
+		buttontext = "Register now"
 
 	# Services section
 	[params.services]

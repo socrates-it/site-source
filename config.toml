@@ -77,17 +77,17 @@ theme = "hugo-agency-theme"
 
 			[[params.services.row.list]]
 				icon = "fa-users"
-				title = "It's about People"
+				title = "People"
 				description = "Everyone who is concerned with coding, testing, code quality and software craftsmanship. <br />Meet us if you want to share your knowledge, experience and expertise. <br />There is no agenda and there are no speakers before the event starts."
 
 			[[params.services.row.list]]
 				icon = "fa-play-circle"
-				title = "It's about Action"
+				title = "Action"
 				description = "The event will be run as a non-profit, low-cost event. It will be much like a retreat.<br />We will be there for 48 hours to collaborate and share ideas in a self-organized Open Space.<br />There will be hands-on coding sessions, sessions focused on discussion, interactive talks and lots more."
 
 			[[params.services.row.list]]
 				icon = "fa-plus-circle"
-				title = "It's about Fun"
+				title = "Fun"
 				description = "We will not only spend the days together but also the nights. And – believe it or not – programmers are a great company! There will be be lots of opportunities to spend your time. Starting with simple chilling over hiking and biking, playing games, hanging around, talking and laughing."
 
 	# Portfolio section

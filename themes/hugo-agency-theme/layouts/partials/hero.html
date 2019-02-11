@@ -2,8 +2,8 @@
 <header>
     <div class="container">
         <div class="intro-text">
-            <div class="intro-date">{{ with .Site.Params.hero.date }}{{ . | markdownify }}{{ end }}</div>
-            <div class="intro-title">{{ with .Site.Params.hero.title }}{{ . | markdownify }}{{ end }}</div>
+            <div class="intro-date"><span class="date">{{ with .Site.Params.hero.date }}{{ . | markdownify }}{{ end }}</span><span class="location">{{ with .Site.Params.hero.location }}{{ . | markdownify }}{{ end }}</span></div>
+        <div class="intro-title">{{ with .Site.Params.hero.title }}{{ . | markdownify }}{{ end }}</div>
             <div class="intro-subtitle">{{ with .Site.Params.hero.subtitle }}{{ . | markdownify }}{{ end }}</div>
             <a href="#services" class="page-scroll btn btn-xl">{{ with .Site.Params.hero.buttontext }}{{ . | markdownify }}{{ end }}</a>
         </div>

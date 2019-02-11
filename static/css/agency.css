@@ -342,10 +342,33 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-date {
         margin-bottom: 25px;
-        font-size: 40px;
+        font-size: 25px;
         font-style: normal;
-        line-height: 40px;
+        line-height: 25px;
         color: white;
+        font-weight: 500;
+        text-transform: uppercase;
+        box-sizing: border-box;
+    }
+
+    header .intro-text .intro-date .date:before {
+        content: "\f133";
+        font-family: "FontAwesome";
+        color: rgb(254, 73, 24);
+        box-sizing: border-box;
+        font-kerning: auto;
+        letter-spacing: 9.5px;
+        font-weight: normal;
+    }
+    header .intro-text .intro-date .location:before {
+        content: "\f041";
+        font-family: "FontAwesome";
+        color: rgb(254, 73, 24);
+        box-sizing: border-box;
+        font-kerning: auto;
+        letter-spacing: 9.5px;
+        padding-left: 20px;
+        font-weight: normal;
     }
 
     header .intro-text .intro-title {

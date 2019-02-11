@@ -119,109 +119,73 @@ theme = "hugo-agency-theme"
 	# Team section
   [params.team]
 		enable = true
-		title = "SoCraTes-it is a part of a big family."
+		title = "Parteners"
 		subtitle = "The first “Software Craftsmanship and Testing (un)conference” took place a few years ago in Germany and is organised every year since 2011."
-		description = "Other conferences have emerged in other European countries such as SoCraTes UK and SoCraTes Canaries."
+		description = "Other conferences"
 
 
 		[[params.team.members]]
 			name = "SoCraTes Switzerland"
 			position = "Switzerland"
-			social = [
-        ["fa-link", "https://www.socrates-ch.org/"],
-        ["fa-twitter", "https://twitter.com/SoCraTes_CH"],
-        ["fa-facebook", "https://www.facebook.com/socrates.ch"]
-			]
-
+      link = "https://www.socrates-ch.org/"
 
 		[[params.team.members]]
 			name = "SoCraTes Day Switzerland"
 			position = "Switzerland"
-			social = [
-				["fa-link", "http://socrates-day.ch"],
-        ["fa-twitter", "https://twitter.com/SoCraTesDay_CH"],
-			]
+      link = "http://socrates-day.ch"
 
 		[[params.team.members]]
 			name = "SoCraTes Canaries"
 			position = "Spain"
-			social = [
-				["fa-link", "http://www.socrates-conference.es"]
-			]
+      link = "http://www.socrates-conference.es"
 
 		[[params.team.members]]
 			name = "SoCraTes UK"
 			position = "United Kingdom"
-			social = [
-				["fa-link", "http://socratesuk.org"],
-				["fa-twitter", "https://twitter.com/SoCraTes_UK"]
-			]
+      link = "http://socratesuk.org"
 
 		[[params.team.members]]
 			name = "SoCraTes BE"
 			position = "Belgium"
-			social = [
-				["fa-link", "http://socratesbe.org"],
-        ["fa-twitter", "https://twitter.com/SoCraTes_BE"],
-        ["fa-github", "https://github.com/socratesbe/socratesbe_18"]
-			]
+      link = "http://socratesbe.org"
 
 		[[params.team.members]]
 			name = "SoCraTes Germany"
 			position = "Germany"
-			social = [
-				["fa-link", "https://www.socrates-conference.de"]
-			]
+      link = "https://www.socrates-conference.de"
 
 		[[params.team.members]]
 			name = "SoCraTes Chile"
 			position = "Chile"
-			social = [
-				["fa-link", "http://www.socrates-conference.cl/"],
-        ["fa-twitter", "https://twitter.com/chile_socrates"]
-			]
+      link = "http://www.socrates-conference.cl/"
 
 
 		[[params.team.members]]
 			name = "SoCraTes FR"
 			position = "France"
-			social = [
-				["fa-link", "https://socrates-it-test.github.io"],
-        ["fa-twitter", "https://twitter.com/SoCraTes_FR"]
-			]
+      link = "https://socrates-it-test.github.io"
 
 
     [[params.team.members]]
 			name = "SoCraTes Austria"
 			position = "Austria"
-			social = [
-				["fa-link", "https://socrates-conference.at/"]
-			]
+      link = "https://socrates-conference.at/"
 
     [[params.team.members]]
 			name = "JSCraftCamp"
 			position = "Germany"
-			social = [
-				["fa-link", "http://jscraftcamp.org/"],
-        ["fa-twitter", "https://twitter.com/jscraftcamp"],
-        ["fa-github", "https://github.com/jscraftcamp/website"]
-			]
+      link = "http://jscraftcamp.org/"
 
 
 		[[params.team.members]]
 			name = "CodeFreeze"
 			position = "Finland"
-			social = [
-				["fa-link", "http://www.codefreeze.fi"]
-			]
+      link = "http://www.codefreeze.fi"
 
 		[[params.team.members]]
 			name = "I T.A.K.E. Unconference"
 			position = "Romania"
-			social = [
-				["fa-link", "http://itakeunconf.com"],
-        ["fa-twitter", "https://twitter.com/itakeunconf"]
-			]
+      link = "http://itakeunconf.com"
 
 
 	# Sponsor section

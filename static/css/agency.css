@@ -688,6 +688,10 @@ section h3.section-subheading {
     text-align: center;
 }
 
+.team-member a {
+    color: green;
+}
+
 .team-member img {
     margin: 0 auto;
     border: 7px solid #fff;

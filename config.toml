@@ -119,7 +119,7 @@ theme = "hugo-agency-theme"
 	# Team section
   [params.team]
 		enable = true
-		title = "Parteners"
+		title = "Partners"
 		subtitle = "The first “Software Craftsmanship and Testing (un)conference” took place a few years ago in Germany and is organised every year since 2011."
 		description = "Other conferences"
 

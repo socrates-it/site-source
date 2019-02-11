@@ -9,6 +9,11 @@
 
         {{ if .Site.Params.about.enable }}
             {{ partial "about.html" . }}
+            {{ partial "modals.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.portfolio.enable }}
+            {{ partial "modals.html" . }}
         {{ end }}
 
         {{ if .Site.Params.portfolio.enable }}

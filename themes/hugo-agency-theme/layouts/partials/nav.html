@@ -38,19 +38,19 @@
 
                 {{ if .Site.Params.about.enable }}
                 <li>
-                    <a class="page-scroll" href="/#about">{{ with .Site.Params.navigation.about }}{{ . | markdownify }}{{ end }}</a>
+                    <a class="page-scroll" href="#about">{{ with .Site.Params.navigation.about }}{{ . | markdownify }}{{ end }}</a>
                 </li>
                 {{ end }}
 
                 {{ if .Site.Params.team.enable }}
                 <li>
-                    <a class="page-scroll" href="/#team">{{ with .Site.Params.navigation.team }}{{ . | markdownify }}{{ end }}</a>
+                    <a class="page-scroll" href="#team">{{ with .Site.Params.navigation.team }}{{ . | markdownify }}{{ end }}</a>
                 </li>
                 {{ end }}
 
                 {{ if .Site.Params.sponsors.enable }}
                 <li>
-                    <a class="page-scroll" href="/#sponsors">{{ with .Site.Params.navigation.sponsors }}{{ . | markdownify }}{{ end }}</a>
+                    <a class="page-scroll" href="#sponsors">{{ with .Site.Params.navigation.sponsors }}{{ . | markdownify }}{{ end }}</a>
                 </li>
                 {{ end }}
 

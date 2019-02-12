@@ -164,7 +164,7 @@ theme = "hugo-agency-theme"
 		[[params.team.members]]
 			name = "SoCraTes FR"
 			position = "France"
-      link = "https://socrates-it-test.github.io"
+      link = "https://socrates-fr.github.io/"
 
 
     [[params.team.members]]

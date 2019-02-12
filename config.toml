@@ -145,7 +145,7 @@ theme = "hugo-agency-theme"
 		[[params.team.members]]
 			name = "SoCraTes Canaries"
 			position = "Spain"
-      link = "http://www.socrates-conference.es"
+      link = "https://socracan.com/"
 
 		[[params.team.members]]
 			name = "SoCraTes UK"

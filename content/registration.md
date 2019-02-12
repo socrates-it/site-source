@@ -1,35 +1,13 @@
 +++
 title = "Registration"
 +++
-<section id="contact">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2>Aliquam feugiat tellus ut neque.  </h2>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2793.2858445172997!2d10.2317228!3d45.5646901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478177c9e3b1b075%3A0x5dc2d66b47f35272!2sVia+Branze%2C+38%2C+Universit%C3%A0+degli+Studi+Di+Brescia+-+Facolt%C3%A0+di+Ingegneria%2C+25123+Brescia+BS!5e0!3m2!1sit!2sit!4v1436025660577" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</iframe>
-            </div>
-            <br />            <br />            <br />            <br />
-        </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="row">
-            
-                    <div class="col-md-6 col-sm-12">
-                        <div class="explains">Donec posuere augue in quam.  </div>
-                    </div>
-                    <div class="col-md-6 col-sm-12 text-center">
-                        <a href="https://www.helloasso.com/associations/socratesfr/evenements/socrates-fr-2018" class="btn btn-xl">Get your ticket!</a>
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
-            </div>
+
+<div class="container">
+        <div class="">
+        <iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2793.2858445172997!2d10.2317228!3d45.5646901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478177c9e3b1b075%3A0x5dc2d66b47f35272!2sVia+Branze%2C+38%2C+Universit%C3%A0+degli+Studi+Di+Brescia+-+Facolt%C3%A0+di+Ingegneria%2C+25123+Brescia+BS!5e0!3m2!1sit!2sit!4v1436025660577" width="100%" height="450" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" </iframe>
         </div>
     </div>
-</section>
+
 
 
 ### Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus.  

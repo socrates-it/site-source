@@ -307,29 +307,58 @@ header .intro-text {
 }
 
 header .intro-text .intro-lead-in {
-    margin-bottom: 25px;
+    margin-bottom: 0px;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
     font-style: normal;
     line-height: 22px;
 }
+header .intro-text .intro-date {
+    margin-bottom:0px;
+    font-size:16px;
+}
+header .intro-text .intro-date .location:before {
+    content: "\f041";
+    font-family: "FontAwesome";
+    color: rgb(254, 73, 24);
+    box-sizing: border-box;
+    font-kerning: auto;
+    letter-spacing: 9.5px;
+    padding-left: 20px;
+    font-weight: normal;
+}
 
-header .intro-text .intro-lead-in,
-header .intro-text .intro-heading {
-/*text-shadow:
-    -1px -1px 0 #444,
-    1px -1px 0 #444,
-    -1px 1px 0 #444,
-    1px 1px 0 #444; */
+header .intro-text .intro-date .date:before {
+    content: "\f133";
+    font-family: "FontAwesome";
+    color: rgb(254, 73, 24);
+    box-sizing: border-box;
+    font-kerning: auto;
+    letter-spacing: 9.5px;
+    font-weight: normal;
+}
+
+header .intro-text .intro-title {
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 75px;
+    color: #fff;
+    font-weight: 700;
+    text-shadow: none;
+}
+
+
+header .intro-text .intro-subtitle {
+    margin-bottom: 30px;
+    font-size:10px;
 }
 
 
 header .intro-text .intro-heading {
-    margin-bottom: 25px;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 50px;
-    font-weight: 700;
+    font-family: "PT Sans Caption","Helvetica Neue",Helvetica,Arial,sans-serif;
+
     line-height: 50px;
 }
 
@@ -340,48 +369,26 @@ header .intro-text .intro-heading {
         font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
     }
 
-    header .intro-text .intro-date {
+    header .intro-text .intro-heading {
         margin-bottom: 25px;
-        font-size: 25px;
-        font-style: normal;
-        line-height: 25px;
-        color: white;
-        font-weight: 500;
-        text-transform: uppercase;
-        box-sizing: border-box;
     }
 
-    header .intro-text .intro-date .date:before {
-        content: "\f133";
-        font-family: "FontAwesome";
-        color: rgb(254, 73, 24);
-        box-sizing: border-box;
-        font-kerning: auto;
-        letter-spacing: 9.5px;
-        font-weight: normal;
+    header .intro-text .intro-lead-in {
+        margin-bottom: 25px;
+        font-family: "PT Sans Caption","Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 40px;
+        font-style: normal;
+        line-height: 40px;
+        color: white;
     }
-    header .intro-text .intro-date .location:before {
-        content: "\f041";
-        font-family: "FontAwesome";
-        color: rgb(254, 73, 24);
-        box-sizing: border-box;
-        font-kerning: auto;
-        letter-spacing: 9.5px;
-        padding-left: 20px;
-        font-weight: normal;
+
+    header .intro-text .intro-date {
+        margin-bottom:50px;
+        sfont-size:16px;
     }
 
     header .intro-text .intro-title {
-        margin-bottom: 20px;
-        text-transform: uppercase;
         font-size: 132px;
-        font-weight: 700;
-        line-height: 75px;
-        color: #fff;
-
-        font-weight: 700;
-        text-shadow: none;
-        color: white;
     }
 
     header .intro-text .intro-subtitle {

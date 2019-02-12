@@ -263,7 +263,7 @@ theme = "hugo-agency-theme"
 
   # Contact section
 	[params.contact]
-		enable = true
+		enable = false
 		title = "Registration"
 		subtitle  = "The number of participants will be limited to 70."
 		buttontext = "Send message"

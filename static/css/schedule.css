@@ -1,19 +1,71 @@
+
+.time {
+  display: inline-block;
+  font-weight: 500;
+}
+
+.nav.nav-schedule > li:after,
+.schedule .tab-content .nav.nav-schedule > li.active,
+.schedule .schedule-item .lecture-icon-wrapper,
+.download-schedule-btn:hover,
+.download-schedule-btn:focus,
+.schedule.schedule-light .nav.nav-schedule,
+.schedule.schedule-light .tab-content {
+  border-color: #fe4918;
+}
+
+.nav.nav-schedule > li.active,
+.download-schedule-btn:hover,
+.download-schedule-btn:focus,
+.schedule.schedule-light .nav.nav-schedule > li,
+.schedule.schedule-light .schedule-item .schedule-item-toggle .lecture-icon-wrapper,
+.tabs-vertical .nav.nav-tabs:before,
+.tabs-vertical .nav.nav-tabs > li:not(.active) a,
+.panel-group .panel .panel-heading a,
+.panel-group-alt .panel > a:not(.collapsed),
+.table > thead > tr > th,
+.table > thead > tr > td,
+.package-column.special-column .sale-label,
+.package-column.package-bright.special-column,
+.package-panel .buy-btn,
+.counter-block.counter-block-solid .counter-box,
+.gallery.light-slider .description-slider-wrapper .bx-pager-link.active,
+.gallery-thumb-link:after,
+.speaker .speaker-socials > li .fa,
+.contacts-wrapper-color:before,
+.header.header-color .header-wrapper,
+.header.header-color .dropdown-menu,
+.header:not(.header-color):not(.header-black) .navbar-collapse,
+.navbar-toggle .icon-bar,
+.call-to-action-section > .overlay:before,
+.thumb-wrapper .overlay:before,
+.header .buy-btn {
+  background-color: #fe4918;
+}
+.schedule .tab-content .nav.nav-schedule > li.active > a:not(:hover):not(:active),
+.schedule .tab-content .nav.nav-schedule > li.active > a:hover,
+.schedule .tab-content .nav.nav-schedule > li.active > a:focus,
+.schedule .schedule-item .schedule-item-toggle.collapsed .title .icon,
+.schedule .schedule-item .schedule-item-body .speaker-name,
+.schedule.schedule-light .nav.nav-schedule > li.active a,
+.schedule.schedule-light .nav.nav-schedule > li.active a:hover,
+.schedule.schedule-light .nav.nav-schedule > li.active a:focus,
+.schedule.schedule-light .nav.nav-schedule > li.active a *,
+.schedule.schedule-light .nav.nav-schedule > li.active a:hover *,
+.schedule.schedule-light .nav.nav-schedule > li.active a:focus *,
+.schedule.schedule-light .schedule-item .schedule-item-body .speaker-name,
+input.header.header-color .navigation-header .buy-btn,
+.header .buy-btn {
+  color: #fe4918;
+}
+
+/* ----------------------------------------------------------------------------
+    Schedules
+---------------------------------------------------------------------------- */
 .schedule {
   margin-bottom: 50px;
   text-align: left;
   background-color: #ffffff;
-}
-
-.schedule .time {
-    color: #fe4918;
-}
-
-.schedule .title {
-    text-transform: none;
-    margin: 0 0 0 47%;
-}
-.schedule .description {
-    margin: 0 0 0 47%;
 }
 .schedule .tab-content .nav-current {
   background-color: #eff1f5;
@@ -326,7 +378,7 @@
   text-align: right;
 }
 .schedule.schedule-light .schedule-item .schedule-item-toggle .lecture-icon-wrapper {
-  margin: 0 15>px;
+  margin: 0 40px;
   position: absolute;
   top: -8px;
   left: 26.5%;
@@ -448,61 +500,3 @@
     padding-left: 35px;
   }
 }
-
-
-
-
-.nav.nav-schedule > li:after,
-.schedule .tab-content .nav.nav-schedule > li.active,
-.schedule .schedule-item .lecture-icon-wrapper,
-.download-schedule-btn:hover,
-.download-schedule-btn:focus,
-.schedule.schedule-light .nav.nav-schedule,
-.schedule.schedule-light .tab-content,
-{
-    border-color: #fe4918;
-}
-
-
-.nav.nav-schedule > li.active,
-.download-schedule-btn:hover,
-.download-schedule-btn:focus,
-.schedule.schedule-light .nav.nav-schedule > li,
-.schedule.schedule-light .schedule-item .schedule-item-toggle .lecture-icon-wrapper,
-.header .buy-btn {
-  background-color: #fe4918;
-}
-
-
-
-
-.schedule .tab-content .nav.nav-schedule > li.active > a:not(:hover):not(:active),
-.schedule .tab-content .nav.nav-schedule > li.active > a:hover,
-.schedule .tab-content .nav.nav-schedule > li.active > a:focus,
-.schedule .schedule-item .schedule-item-toggle.collapsed .title .icon,
-.schedule .schedule-item .schedule-item-body .speaker-name,
-.schedule.schedule-light .nav.nav-schedule > li.active a,
-.schedule.schedule-light .nav.nav-schedule > li.active a:hover,
-.schedule.schedule-light .nav.nav-schedule > li.active a:focus,
-.schedule.schedule-light .nav.nav-schedule > li.active a *,
-.schedule.schedule-light .nav.nav-schedule > li.active a:hover *,
-.schedule.schedule-light .nav.nav-schedule > li.active a:focus *,
-.schedule.schedule-light .schedule-item .schedule-item-body .speaker-name {
-  color: #fe4918;
-}
-
-
-
-.highlight,
- {
-  color: #fe4918;
- }
-
-
-.schedule .schedule-item .schedule-item-toggle .title {
-    position: relative;
-    margin: 0;
-    padding: 0 35px 11px 0;
-    border-bottom: 1px solid #eff1f5;
-}
-

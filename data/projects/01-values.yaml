@@ -1,22 +1,24 @@
 modalID: 1
-title: Values
-subtitle: Nunc porta vulputate tellus.  Aliquam erat volutpat.
-img: massillan.jpg
-preview: massillan-preview.jpg
+title: Our values
+subtitle: 
+img: values-preview.jpg
+preview: values-preview.jpg
 category: 
 description: |
-    The "[château de Massillan](https://www.chateaudemassillan.fr/en/)" is located 1h20 from Marseille, 1h45 from Lyon, 1h15 from Montpellier and 1h from Aix-En-Provence.
+    ### Inclusiveness
+    A primary goal of SoCraTes conference is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible.
 
-    By train, the closest stations are
+    ### Safe Environment
+    As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, programming language, ability, ethnicity, socioeconomic status, and religion (or lack thereof)
 
-    - "Gare d’Orange" - 12 km
-    - "Gare TGV d’Avignon" - 40 km
+    And so we invite all those who participate in the SoCraTes conference and the community surrounding the conference to help us create safe and positive experiences for everyone.
 
-    By plane
+    ### Be welcoming, friendly, and patient
+    Be respectful. Not all of us will agree with each other all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack.
+    
+    Be aware of the effect your words may have on others. We are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren’t acceptable.
 
-    - Avignon Airport - 50 km
-    - Marseille Airport - 120 km
+    ### Scope
+    This code of conduct applies to the SoCraTes conference itself and to all digital spaces that are related to the SoCraTes conference, such as the wiki and mailing list.
 
-    Try searching for direction on Google Maps
-
-     - [Google Maps](https://www.google.com/maps/place/Ch%C3%A2teau+de+Massillan/@44.2330208,4.7908183,17z/data=!3m1!4b1!4m7!3m6!1s0x12b59ea50a4d28ed:0xcaadcdda26b26ed5!5m1!1s2018-06-10!8m2!3d44.2330208!4d4.793007)
+    *Credits*: These values are inspired by [Django Code of Conduct and Citizenship Code of Conduct](https://www.djangoproject.com/conduct/)

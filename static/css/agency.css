@@ -11,6 +11,7 @@ body {
                  Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
+
 .text-muted {
     color: #777;
 }
@@ -136,9 +137,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #f6bf01;
+    border-color: #306030;
     color: #fff;
-    background-color: #fec503;
+    background-color: #337733;
 }
 
 .btn-xl:active,
@@ -247,6 +248,11 @@ fieldset[disabled] .btn-xl.active {
     color:white;
     background-color: #ee0000;
     border-radius: 22.5px;
+
+    border-color: #306030;
+    color: #fff;
+    background-color: #337733;
+
 }
 
 .navbar-default .navbar-nav > .active > a.highlighted {
@@ -975,3 +981,8 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: green;
 }
+
+.text-muted {
+    text-align: justify;
+}
+

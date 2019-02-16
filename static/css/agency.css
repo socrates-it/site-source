@@ -187,6 +187,12 @@ fieldset[disabled] .btn-xl.active {
     position:relative;
 }
 
+
+.navbar-shrink .logo {
+    height: 40px;
+    top: 0px;
+}
+
 .navbar-default .navbar-brand {
     font-family: "PT Sans Caption","Helvetica Neue",Helvetica,Arial,cursive;
     color: white;

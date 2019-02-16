@@ -38,8 +38,9 @@ theme = "hugo-agency-theme"
 	[params.navigation]
 		brand = "SoCraTes IT"
 		about = "About"
+    schedule = "Schedule"
 		portfolio = "Information"
-    team = "Partners"
+#    team = "Partners"
 		contact = "Register now"
 		sponsors = "Sponsors"
 
@@ -99,6 +100,12 @@ theme = "hugo-agency-theme"
 				icon = "fa-plus-circle"
 				title = "Fun"
 				description = "We will not only spend the days together but also the nights. And – believe it or not – programmers are a great company! There will be be lots of opportunities to spend your time. Starting with simple chilling over hiking and biking, playing games, hanging around, talking and laughing."
+
+
+	# Schedule section
+	[params.schedule]
+		enable = true
+
 
 	# Portfolio section
 	[params.portfolio]

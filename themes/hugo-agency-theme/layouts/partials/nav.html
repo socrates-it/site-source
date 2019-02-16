@@ -32,15 +32,16 @@
                 </li>
                 {{ end }}
 
-                {{ if .Site.Params.portfolio.enable }}
+                {{ if .Site.Params.schedule.enable }}
                 <li>
-                    <a class="page-scroll" href="#portfolio">{{ with .Site.Params.navigation.portfolio }}{{ . | markdownify }}{{ end }}</a>
+                    <a class="page-scroll" href="#schedule">{{ with .Site.Params.navigation.schedule }}{{ . | markdownify }}{{ end }}</a>
                 </li>
                 {{ end }}
 
-                {{ if .Site.Params.team.enable }}
+
+                {{ if .Site.Params.portfolio.enable }}
                 <li>
-                    <a class="page-scroll" href="#team">{{ with .Site.Params.navigation.team }}{{ . | markdownify }}{{ end }}</a>
+                    <a class="page-scroll" href="#portfolio">{{ with .Site.Params.navigation.portfolio }}{{ . | markdownify }}{{ end }}</a>
                 </li>
                 {{ end }}
 

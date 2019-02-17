@@ -318,6 +318,7 @@ fieldset[disabled] .btn-xl.active {
         border-color: red;
         background-color: red;
         border-radius: 22.5px;
+        margin-top:0px;
     }
 
 

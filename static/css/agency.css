@@ -255,11 +255,13 @@ fieldset[disabled] .btn-xl.active {
 
 
 .navbar-nav li a.highlighted {
-    margin-left: 30px;
     border:1px solid red;
     border-color: red;
     background-color: red;
     border-radius: 22.5px;
+    width: 180px;
+    margin-top:20px;
+    margin-left:10px;
 }
 
 .navbar-nav li a.highlighted:hover,
@@ -308,6 +310,16 @@ fieldset[disabled] .btn-xl.active {
         padding: 10px 0;
         background-color: #222;
     }
+
+
+    .navbar-nav li a.highlighted {
+        margin-left: 30px;
+        border:1px solid red;
+        border-color: red;
+        background-color: red;
+        border-radius: 22.5px;
+    }
+
 
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;

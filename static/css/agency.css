@@ -253,28 +253,23 @@ fieldset[disabled] .btn-xl.active {
     background-color: green;
 }
 
-
 .navbar-nav li a.highlighted {
-    border:1px solid red;
-    border-color: red;
-    background-color: red;
-    border-radius: 22.5px;
+    border:0;;
+    background-color: transparent;
+    border-radius: 0;
     width: 180px;
-    margin-top:20px;
-    margin-left:10px;
+    color: #eeaaaa;
+    font-weight: 700;
 }
 
 .navbar-nav li a.highlighted:hover,
 .navbar-nav li a.highlighted.active {
-    border:1px solid #ee0000;
-    color:white;
-    background-color: #ee0000;
-    border-radius: 22.5px;
-
-    border-color: #306030;
-    color: #fff;
-    background-color: #337733;
-
+    border:0px;
+    color:green;
+    background-color: transparent;
+    border-radius: 0;
+    border-color: transparent;
+    background-color: transparent;
 }
 
 .navbar-default .navbar-nav > .active > a.highlighted {
@@ -319,6 +314,16 @@ fieldset[disabled] .btn-xl.active {
         background-color: red;
         border-radius: 22.5px;
         margin-top:0px;
+        color: white;
+    }
+
+    .navbar-nav li a.highlighted:hover,
+    .navbar-nav li a.highlighted.active {
+        border:1px solid #ee0000;
+        color:white;
+        border-radius: 22.5px;
+        border-color: #306030;
+        background-color: #337733;
     }
 
 

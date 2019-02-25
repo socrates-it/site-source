@@ -3,11 +3,6 @@ title = "Registration"
 +++
 
 
-<div style="text-align: center;">
-  <h4>Please leave your e-mail here to let us know you would like to attend SoCraTes-IT 2019</h4>
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScg2jNBhV1v0rlgoUmzFuy7rMCiiEvf09id_yDUiAm-a_HSRg/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0" margin-left="auto" margin-right="auto">Caricamento in corso...</iframe>
-</div>
-
 ## Location
 We are going to be in the hotel, night and day. That is why, we have chosen the [Hotel Continental](https://www.hotelcontinentalrimini.it/) in Rimini as our location for the unconference.
 
@@ -30,3 +25,46 @@ You will pay your part at the checkout.<br /><br />
 * **2 nights full-board + the city tax**:<br /> the hotel has both twin or double rooms. If there is someone you
 are willing to share the room with, please let us know when you register. If you don’t know anyone,
 don’t worry: we will do our best to find you a suitable roommate ;-)
+<br />
+<br />
+
+
+
+<div class="row schedule schedule-light">
+    <ul class="nav nav-schedule">
+        <li><a href="Rooms" data-toggle="tab">Rooms</a></li>
+    </ul>
+    <div class="tab-content">
+        <div id="schedule3_day1" class="tab-pane fade active in">
+            <div class="panel-group" id="schedule3_day1_timeline">
+                <div class="panel schedule-item">
+                    <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
+                        <strong class="time highlight">Double for single use</strong>
+                        <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
+                        <h6 class="title">€ 256</h6>
+                    </a>
+                    <div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
+                        <p class="description">€ 128 per night per attendee + conference services + city tax</p>
+                    </div>
+                </div>
+                <div class="panel schedule-item">
+                    <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
+                        <strong class="time highlight">Double for single use</strong>
+                        <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
+                        <h6 class="title">€ 206</h6>
+                    </a>
+                    <div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
+                        <p class="description">€ 103 per night per attendee + conference services + city tax</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div style="text-align: center;">
+  <!--<h4>Please leave your e-mail here to let us know you would like to attend SoCraTes-IT 2019</h4>-->
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScg2jNBhV1v0rlgoUmzFuy7rMCiiEvf09id_yDUiAm-a_HSRg/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0" margin-left="auto" margin-right="auto">Caricamento in corso...</iframe>
+</div>

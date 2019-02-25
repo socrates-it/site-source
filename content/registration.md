@@ -2,10 +2,11 @@
 title = "Registration"
 +++
 
-Please leave your e-mail here to let us know you would like to attend SoCraTes-IT 2019
 
-
-<div>**FORM MAILCHIMP/GOOGLE**</div>
+<div style="text-align: center;">
+  <h4>Please leave your e-mail here to let us know you would like to attend SoCraTes-IT 2019</h4>
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScg2jNBhV1v0rlgoUmzFuy7rMCiiEvf09id_yDUiAm-a_HSRg/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0" margin-left="auto" margin-right="auto">Caricamento in corso...</iframe>
+</div>
 
 ## Location
 We are going to be in the hotel, night and day. That is why, we have chosen the [Hotel Continental](https://www.hotelcontinentalrimini.it/) in Rimini as our location for the unconference.

@@ -199,14 +199,14 @@ theme = "hugo-agency-theme"
 	# Sponsor section
 	[params.sponsors]
 		enable = true
-		title = "Sponsorship"
+		title = "Sponsors"
 		subtitle = "Do you want to sponsor the event?"
     email = "socrates-it@googlegroups.com"
     
-# 		[[params.sponsor]]
-# 			name = "Viseo Technologies"
-# 			logo = "viseo-square.jpg"
-# 			link = "http://www.viseo.com"
+ 		[[params.sponsor]]
+ 			name = "Connexxo"
+ 			logo = "connexxo.png"
+ 			link = "http://www.connexxo.com"
 
 # 		[[params.sponsor]]
 # 			name = "Codurance"

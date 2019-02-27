@@ -251,5 +251,9 @@ Prices are per person and include 3 nights accommodation, 3 dinners, 3 lunches, 
 			link = "https://twitter.com/SoCraTes_Italy"
 
     [[params.footer.quicklinks]]
+      text = "Cookie Policy"
+      link = "/cookie-policy"
+
+    [[params.footer.quicklinks]]
       text = "Privacy Policy"
       link = "/privacy-policy"

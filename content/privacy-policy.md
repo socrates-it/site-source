@@ -13,6 +13,7 @@ it with and your legal rights.
 
 Unless indicated otherwise, this Privacy Policy relates to our use of any personal information we collect or
 use in relation to the following services (collectively, the “Services”):
+
 * the Conference
 * the Conference websites and their related subdomains including those pertaining to registration for
 attendance at the Conference and to be a sponsor at the Conference;
@@ -21,6 +22,7 @@ attendance at the Conference and to be a sponsor at the Conference;
 * online surveys relating to the Conference;
 * messages sent via the Conference support e-mail;
 * the Conference official social media channels.
+
 Personal information processed in connection with the Services is controlled by us, you can contact us by e-
 mail (socrates-it@googlegroups.com).
 
@@ -135,12 +137,13 @@ own purposes.
 ###### Legal and safety reasons. 
 We may retain, preserve, or share your personal information if we have a
 good-faith belief that it is reasonably necessary to
-(a) respond, based on applicable law, to a legal request (such as, a subpoena, search warrant, court order,
+
+* respond, based on applicable law, to a legal request (such as, a subpoena, search warrant, court order,
 or other request from government or law enforcement);
-(b) detect, investigate, prevent, and address fraud and other illegal activity, security, or technical issues;
-(c) protect our rights, property, or safety;
-(d) enforce our Conditions or any other agreements we have with you;
-(e) prevent physical injury or other harm to any person or entity, including yourself and members of the
+* detect, investigate, prevent, and address fraud and other illegal activity, security, or technical issues;
+* protect our rights, property, or safety;
+* enforce our Conditions or any other agreements we have with you;
+* prevent physical injury or other harm to any person or entity, including yourself and members of the
 general public.
 
 ###### Aggregated information. 

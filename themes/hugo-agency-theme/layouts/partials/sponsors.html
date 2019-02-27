@@ -4,11 +4,14 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">{{ with .Site.Params.sponsors.title }}{{ . | markdownify }}{{ end }}</h2>
+                <h4>{{ with .Site.Params.sponsors.subtitle }}{{ . | markdownify }}{{ end }}</h4>
             </div>
         </div>
+        <br />
+        <br />
         <div class="row">
             {{ range .Site.Params.sponsor }}
-            <div class="col-sm-3">
+            <div class="col-lg-12">
                 <div class="team-member">
                     <a href="{{ .link }}">
                         <img src="img/logos/{{ .logo }}" class="img-responsive" alt="{{ .name | markdownify }}">
@@ -21,7 +24,7 @@
         <br />
         <div class="row">
             <div class="col-lg-12">
-                <h4>{{ with .Site.Params.sponsors.subtitle }}{{ . | markdownify }}{{ end }}</h4>
+              
                 <p>It would be great to list your company among our sponsors! Please contact us at <a id="email" href="none">none</a> and we’ll send you the sponsorship prospect.</p>
             </div>
         </div>

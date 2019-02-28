@@ -67,7 +67,8 @@ don’t worry: we will do our best to find you a suitable roommate ;-)
 <div style="text-align: center;">
   <!--<h4>Please leave your e-mail here to let us know you would like to attend SoCraTes-IT 2019</h4>-->
   
-<!-- Begin Mailchimp Signup Form -->
+  
+  <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
@@ -81,9 +82,9 @@ don’t worry: we will do our best to find you a suitable roommate ;-)
 	#mc-embedded-subscribe-form .mc_fieldset{border:none;min-height: 0px;padding-bottom:0px;}
 </style>
 <div id="mc_embed_signup">
-<form action="https://socrates-conference.us20.list-manage.com/subscribe/post?u=75629b56745cebac748cf9c45&amp;id=9a6b987956" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://socrates-conference.us20.list-manage.com/subscribe/post?u=4e24ba7602f7acf9fe79737d3&amp;id=be9dbd9e7a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Get in touch with us! </h2>
+	<h2>Secure your seat for SoCraTes IT and pre-register here!</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -93,11 +94,11 @@ don’t worry: we will do our best to find you a suitable roommate ;-)
 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
     <div class="content__gdpr">
         <label>Marketing Permissions</label>
-        <p>Please select all the ways you would like to hear from Socrates IT:</p>
+        <p>Please select all the ways you would like to hear from SoCraTes IT:</p>
         <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-		<label class="checkbox subfield" for="gdpr_10157"><input type="checkbox" id="gdpr_10157" name="gdpr[10157]" value="Y" class="av-checkbox "><span>Email</span> </label><label class="checkbox subfield" for="gdpr_10161"><input type="checkbox" id="gdpr_10161" name="gdpr[10161]" value="Y" class="av-checkbox "><span>Direct Mail</span> </label><label class="checkbox subfield" for="gdpr_10165"><input type="checkbox" id="gdpr_10165" name="gdpr[10165]" value="Y" class="av-checkbox "><span>Customized Online Advertising</span> </label>
+		<label class="checkbox subfield" for="gdpr_11381"><input type="checkbox" id="gdpr_11381" name="gdpr[11381]" value="Y" class="av-checkbox "><span>Email</span> </label>
         </fieldset>
-        <p>You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.</p>
+        <p>You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit read our Privacy Policy.</p>
     </div>
     <div class="content__gdprLegal">
         <p>We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
@@ -107,11 +108,13 @@ don’t worry: we will do our best to find you a suitable roommate ;-)
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_75629b56745cebac748cf9c45_9a6b987956" tabindex="-1" value=""></div>
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4e24ba7602f7acf9fe79737d3_be9dbd9e7a" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+
+
 </div>

@@ -1039,3 +1039,11 @@ body {
 .img-sponsor {
     width: 50%;
 }
+
+
+
+.content__gdpr input[type=checkbox] {
+    position: inherit;
+    margin-top: 0px;
+    margin-left: : 50px;
+}

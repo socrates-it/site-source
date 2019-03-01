@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://socrates-it-test.github.io/"
+baseurl = "https://socrates-conference.it"
 languageCode = "en-us"
 title = "SoCraTes-IT"
 theme = "hugo-agency-theme"

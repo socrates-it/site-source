@@ -76,9 +76,7 @@ You will pay the cost of:
 
 * **unconference’s services**:<br />the total amount will be about 3.000€ and it will be divided between all attendees.
 You will pay your part at the checkout.<br /><br />
-* **2 nights full-board + the city tax**:<br /> the hotel has both twin or double rooms. If there is someone you
-are willing to share the room with, please let us know when you register. If you don’t know anyone,
-don’t worry: we will do our best to find you a suitable roommate ;-)
+* the hotel has both twin or double rooms. If there is someone you are willing to share the room with, please let us know when you register. If you don’t know anyone, don’t worry: we will do our best to find you a suitable roommate.
 <br />
 <br />
 

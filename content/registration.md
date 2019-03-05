@@ -12,6 +12,7 @@ title = "Registration"
 <div class="registration-form" style="text-align: center;">
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<link href="/css/mailchimp.css" rel="stylesheet">
 <style type="text/css">
 	#mc_embed_signup{
         clear:left; 

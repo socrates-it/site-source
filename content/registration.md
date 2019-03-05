@@ -114,7 +114,7 @@ You will pay the cost of:
             <div class="panel-group" id="schedule3_day1_timeline">
                 <div class="panel schedule-item">
                     <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
-                        <strong class="time highlight">Double for single use</strong>
+                        <strong class="time highlight">Room for 1 attendee</strong>
                         <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
                         <h6 class="title">€ 256</h6>
                     </a>
@@ -124,7 +124,7 @@ You will pay the cost of:
                 </div>
                 <div class="panel schedule-item">
                     <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
-                        <strong class="time highlight">Double room</strong>
+                        <strong class="time highlight">Room for 2 attendees</strong>
                         <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
                         <h6 class="title">€ 206</h6>
                     </a>

@@ -98,11 +98,8 @@ number of available beds.
 ## What will I pay for?
 You will pay the cost of:
 
-* **unconference’s services**:<br />the total amount will be about 3.000€ and it will be divided between all attendees.
-You will pay your part at the checkout.<br /><br />
-* **2 nights full-board + the city tax**:<br /> the hotel has both twin or double rooms. If there is someone you
-are willing to share the room with, please let us know when you register. If you don’t know anyone,
-don’t worry: we will do our best to find you a suitable roommate ;-)
+* **unconference’s services**:<br />the total amount will be 2.400€+VAT and it will be divided between all attendees and possible sponsors. You will pay your part at the checkout.<br /><br />
+* **2 nights full-board + the city tax**:<br />the hotel has both twin or double rooms. If there is someone you are willing to share the room with, feel free to book the double room. If you don’t know anyone, don’t worry: sign in the [Sofware Crafters #italian channel](http://bit.ly/SlackSocrates) on Slack and find a suitable roomate.
 <br />
 <br />
 

@@ -208,6 +208,11 @@ theme = "hugo-agency-theme"
  			logo = "connexxo.png"
  			link = "http://www.connexxo.com"
 
+ 		[[params.sponsor]]
+ 			name = "Avanscoperta"
+ 			logo = "avanscoperta.png"
+ 			link = "https://www.avanscoperta.it"
+
 # 		[[params.sponsor]]
 # 			name = "Codurance"
 # 			logo = "codurance-square.png"

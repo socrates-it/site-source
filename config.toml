@@ -213,6 +213,12 @@ theme = "hugo-agency-theme"
  			logo = "avanscoperta.png"
  			link = "https://www.avanscoperta.it"
 
+ 		[[params.sponsor]]
+ 			name = "doubleloop"
+ 			logo = "doubleloop.png"
+ 			link = "https://www.doubleloop.io"
+
+
 # 		[[params.sponsor]]
 # 			name = "Codurance"
 # 			logo = "codurance-square.png"

@@ -209,14 +209,14 @@ theme = "hugo-agency-theme"
  			link = "http://www.connexxo.com"
 
  		[[params.sponsor]]
- 			name = "Avanscoperta"
- 			logo = "avanscoperta.png"
- 			link = "https://www.avanscoperta.it"
-
- 		[[params.sponsor]]
  			name = "doubleloop"
  			logo = "doubleloop.png"
  			link = "https://www.doubleloop.io"
+
+    [[params.sponsor]]
+ 			name = "Avanscoperta"
+ 			logo = "avanscoperta.png"
+ 			link = "https://www.avanscoperta.it"
 
 
 # 		[[params.sponsor]]

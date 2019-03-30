@@ -211,7 +211,7 @@ theme = "hugo-agency-theme"
  		[[params.sponsor]]
  			name = "doubleloop"
  			logo = "doubleloop.png"
- 			link = "https://www.doubleloop.io"
+ 			link = "http://www.doubleloop.io"
 
     [[params.sponsor]]
  			name = "Avanscoperta"

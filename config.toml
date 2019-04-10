@@ -218,6 +218,11 @@ theme = "hugo-agency-theme"
  			logo = "avanscoperta.png"
  			link = "https://www.avanscoperta.it"
 
+    [[params.sponsor]]
+ 			name = "XPeppers"
+ 			logo = "xpeppers.png"
+ 			link = "https://www.xpeppers.com"
+
 
 # 		[[params.sponsor]]
 # 			name = "Codurance"

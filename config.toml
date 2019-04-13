@@ -208,7 +208,17 @@ theme = "hugo-agency-theme"
  			logo = "connexxo.png"
  			link = "http://www.connexxo.com"
 
- 		[[params.sponsor]]
+    [[params.sponsor]]
+ 			name = "lastminute"
+ 			logo = "lastminute.png"
+ 			link = "https://www.lastminute.com/"
+
+    [[params.sponsor]]
+ 			name = "XPeppers"
+ 			logo = "xpeppers.png"
+ 			link = "https://www.xpeppers.com"
+
+    [[params.sponsor]]
  			name = "doubleloop"
  			logo = "doubleloop.png"
  			link = "http://www.doubleloop.io"
@@ -217,16 +227,6 @@ theme = "hugo-agency-theme"
  			name = "Avanscoperta"
  			logo = "avanscoperta.png"
  			link = "https://www.avanscoperta.it"
-
-    [[params.sponsor]]
- 			name = "XPeppers"
- 			logo = "xpeppers.png"
- 			link = "https://www.xpeppers.com"
-
-    [[params.sponsor]]
- 			name = "LastMinute"
- 			logo = "lastminute.png"
- 			link = "https://www.lastminute.com/"
 
 
 # 		[[params.sponsor]]

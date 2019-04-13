@@ -223,6 +223,11 @@ theme = "hugo-agency-theme"
  			logo = "xpeppers.png"
  			link = "https://www.xpeppers.com"
 
+    [[params.sponsor]]
+ 			name = "LastMinute"
+ 			logo = "lastminute.png"
+ 			link = "https://www.lastminute.com/"
+
 
 # 		[[params.sponsor]]
 # 			name = "Codurance"

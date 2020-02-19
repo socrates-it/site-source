@@ -92,24 +92,22 @@ number of available beds.
 <div class="container">
         <div class="intro-text">
         
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2866.8356241264555!2d12.581224015059114!3d44.06610277910921!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132cc37168068d3b%3A0xb43bd4e029c3e2b8!2sFamily+Hotel+Continental!5e0!3m2!1sen!2sit!4v1551730683255https" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-        </div>
-    </div>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2755.0953848831678!2d10.869012615586582!3d46.327800479120626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4782f59f0efeb1bf%3A0xee0d0102dd67f101!2sHotel%20AlpHoliday%20Dolomiti!5e0!3m2!1sen!2sch!4v1582100329275!5m2!1sen!2sch" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe> 
+        
+</div>
 
-## What will I pay for?
 
-You will only pay the cost for the hotel:
+What is it included in the cost?
 
-* **2 nights full-board + the city tax**: <br/> the hotel has both twin or double rooms. If there is someone you are willing to share the room with, feel free to book the double room. If you don’t know anyone, don’t worry: sign in the [Sofware Crafters #italian channel](http://bit.ly/SlackSocrates) on Slack and find a suitable roomate.
-<br />
-<br />
+* Two nights full-board: breakfast, lunch, dinner and snack buffet all day (vegetarian and gluten-free food included!)
+* The hotel has both twin or double rooms. If there is someone you are willing to share the room with, feel free to book the double room. If you don’t know anyone, don’t worry: sign in the [Sofware Crafters #italian channel on Slack](http://bit.ly/SlackSocrates) and find a suitable roommate.
+* City tax
+* Access to the wellness area: indoor pool, heated outdoor pool, and wet area
+* Access to the gym with cardio and fitness equipment
+* [Trentino Guest Card](https://www.visittrentino.info/en/experience/trentino-guest-card): free circulation on public transport within Trentino and free or discounted entry to over 60 museums, 20 castles, and 20 attractions.
+* Use of mountain bikes
 
-If you have some time free, the hotel offers:
-
-* Free wellness area: indoor pool, heated outdoor pool, and wet area
-* Free sporty area: gym with cardio and fitness equipment
-* [Guest card Trentino](https://www.visittrentino.info/en/experience/trentino-guest-card): free circulation on public transport within Trentino and free or discounted entry to over 60 museums, 20 castles, and 20 attractions.
-* Free use of mountain bikes
+The unconference’s beverages will be covered by the sponsors.
 
 <div class="row schedule schedule-light">
     <ul class="nav nav-schedule">
@@ -120,23 +118,17 @@ If you have some time free, the hotel offers:
             <div class="panel-group" id="schedule3_day1_timeline">
                 <div class="panel schedule-item">
                     <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
-                        <strong class="time highlight">Room for 1 attendee</strong>
+                        <strong class="time highlight">Double room</strong>
                         <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
-                        <h6 class="title">€ 256</h6>
+                        <h6 class="title">€ 239,00 + € 3,6 city tax per attendee</h6>
                     </a>
-                    <div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
-                        <p class="description">€ 128 per night per attendee + city tax</p>
-                    </div>
                 </div>
                 <div class="panel schedule-item">
                     <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
-                        <strong class="time highlight">Room for 2 attendees</strong>
+                        <strong class="time highlight">Single room</strong>
                         <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
-                        <h6 class="title">€ 206</h6>
+                        <h6 class="title">€ 329,00 + € 3,6 city tax per attendee</h6>
                     </a>
-                    <div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
-                        <p class="description">€ 103 per night per attendee + city tax</p>
-                    </div>
                 </div>
             </div>
         </div>

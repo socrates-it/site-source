@@ -96,9 +96,6 @@ title = "Registration"
         <p/><p/><p/>
         <p>I declare to have read and understood SoCraTes IT’s <a href="/privacy-policy">Privacy Policy</a>.</p>
     </div>
-    <div class="content__gdprLegal">
-        <p>We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
-    </div>
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>

@@ -82,7 +82,7 @@ title = "Registration"
 </div>
 
 ## Location
-We are going to be in the hotel, night and day. That is why, we have chosen the [Hotel Continental](https://www.hotelcontinentalrimini.it/) in Rimini as our location for the unconference.
+We are going to be in the hotel, night and day. That is why, we have chosen the [AlpHoliday Dolomiti Wellness & Fun Hotel](https://www.alpholiday.it/) in Dimaro (Trento) as our location for the unconference.
 
 Since one of the important aspects of SoCraTes is being close to the “action”, everything will happen within
 the location: lodging, eating and mingling. As a result, we can only accept as many participants as the
@@ -97,13 +97,19 @@ number of available beds.
     </div>
 
 ## What will I pay for?
+
 You will only pay the cost for the hotel:
 
-* **2 nights full-board + the city tax**:<br />the hotel has both twin or double rooms. If there is someone you are willing to share the room with, feel free to book the double room. If you don’t know anyone, don’t worry: sign in the [Sofware Crafters #italian channel](http://bit.ly/SlackSocrates) on Slack and find a suitable roomate.
+* **2 nights full-board + the city tax**: <br/> the hotel has both twin or double rooms. If there is someone you are willing to share the room with, feel free to book the double room. If you don’t know anyone, don’t worry: sign in the [Sofware Crafters #italian channel](http://bit.ly/SlackSocrates) on Slack and find a suitable roomate.
 <br />
 <br />
 
-The unconference’s services (2.400€+VAT) have been covered by the sponsors.
+If you have some time free, the hotel offers:
+
+* Free wellness area: indoor pool, heated outdoor pool, and wet area
+* Free sporty area: gym with cardio and fitness equipment
+* [Guest card Trentino](https://www.visittrentino.info/en/experience/trentino-guest-card): free circulation on public transport within Trentino and free or discounted entry to over 60 museums, 20 castles, and 20 attractions.
+* Free use of mountain bikes
 
 <div class="row schedule schedule-light">
     <ul class="nav nav-schedule">

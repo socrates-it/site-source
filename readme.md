@@ -19,3 +19,9 @@ Build the site locally:
 ```shell
 hugo
 ```
+
+Use
+```shell
+./publish.sh
+```
+to copy the content to `../socrates-it-test` for local testing

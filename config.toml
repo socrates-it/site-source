@@ -63,8 +63,8 @@ theme = "hugo-agency-theme"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-    date = "2-4 May 2019"
-    location = "Rimini"
+    date = "4-6 June 2020"
+    location = "Dimaro (Trento)"
 		title = "SoCraTes IT"
 		subtitle = "Software Craftsmanship and Testing Conference"
 		buttontext = "Register now"
@@ -208,25 +208,25 @@ theme = "hugo-agency-theme"
  			logo = "connexxo.png"
  			link = "http://www.connexxo.com"
 
-    [[params.sponsor]]
- 			name = "lastminute"
- 			logo = "lastminute.png"
- 			link = "https://www.lastminute.com/"
-
-    [[params.sponsor]]
- 			name = "XPeppers"
- 			logo = "xpeppers.png"
- 			link = "https://www.xpeppers.com"
-
-    [[params.sponsor]]
- 			name = "doubleloop"
- 			logo = "doubleloop.png"
- 			link = "http://www.doubleloop.io"
-
-    [[params.sponsor]]
- 			name = "Avanscoperta"
- 			logo = "avanscoperta.png"
- 			link = "https://www.avanscoperta.it"
+#    [[params.sponsor]]
+# 			name = "lastminute"
+# 			logo = "lastminute.png"
+# 			link = "https://www.lastminute.com/"
+#
+#    [[params.sponsor]]
+# 			name = "XPeppers"
+# 			logo = "xpeppers.png"
+# 			link = "https://www.xpeppers.com"
+#
+#    [[params.sponsor]]
+# 			name = "doubleloop"
+# 			logo = "doubleloop.png"
+# 			link = "http://www.doubleloop.io"
+#
+#    [[params.sponsor]]
+# 			name = "Avanscoperta"
+# 			logo = "avanscoperta.png"
+# 			link = "https://www.avanscoperta.it"
 
 
 # 		[[params.sponsor]]

@@ -137,77 +137,70 @@ theme = "hugo-agency-theme"
 		subtitle = "The first “Software Craftsmanship and Testing (un)conference” took place a few years ago in Germany and is organised every year since 2011."
 		description = "Other conferences"
 
-                
-
 		[[params.team.members]]
 			name = "SoCraTes Switzerland"
 			position = "Switzerland"
-      link = "https://www.socrates-ch.org/"
+                        link = "https://www.socrates-ch.org/"
 
 		[[params.team.members]]
 			name = "SoCraTes Day Switzerland"
 			position = "Switzerland"
-      link = "http://socrates-day.ch"
+                        link = "http://socrates-day.ch"
 
 		[[params.team.members]]
 			name = "SoCraTes Canaries"
 			position = "Spain"
-      link = "https://socracan.com/"
+                        link = "https://socracan.com/"
 
 		[[params.team.members]]
 			name = "SoCraTes UK"
 			position = "United Kingdom"
-      link = "http://socratesuk.org"
+                        link = "http://socratesuk.org"
 
 		[[params.team.members]]
 			name = "SoCraTes BE"
 			position = "Belgium"
-      link = "http://socratesbe.org"
+                        link = "http://socratesbe.org"
 
 		[[params.team.members]]
 			name = "SoCraTes Germany"
 			position = "Germany"
-      link = "https://www.socrates-conference.de"
+                        link = "https://www.socrates-conference.de"
 
 		[[params.team.members]]
 			name = "SoCraTes Chile"
 			position = "Chile"
-      link = "http://www.socrates-conference.cl/"
-
+                        link = "http://www.socrates-conference.cl/"
 
 		[[params.team.members]]
 			name = "SoCraTes FR"
 			position = "France"
-      link = "https://socrates-fr.github.io/"
+                        link = "https://socrates-fr.github.io/"
 
-
-    [[params.team.members]]
+                [[params.team.members]]
 			name = "SoCraTes Austria"
 			position = "Austria"
-      link = "https://socrates-conference.at/"
+                        link = "https://socrates-conference.at/"
 
 		[[params.team.members]]
 			name = "Agile Crete"
 			position = "Grece"
                         link = "https://agilecrete.org/"
 
-
-
-    [[params.team.members]]
+                [[params.team.members]]
 			name = "JSCraftCamp"
 			position = "Germany"
-      link = "http://jscraftcamp.org/"
-
+                        link = "http://jscraftcamp.org/"
 
 		[[params.team.members]]
 			name = "CodeFreeze"
 			position = "Finland"
-      link = "http://www.codefreeze.fi"
+                        link = "http://www.codefreeze.fi"
 
 		[[params.team.members]]
 			name = "I T.A.K.E. Unconference"
 			position = "Romania"
-      link = "http://itakeunconf.com"
+                        link = "http://itakeunconf.com"
 
 
 	# Sponsor section

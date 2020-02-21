@@ -158,13 +158,19 @@ The unconference’s beverages will be covered by the sponsors.
                         <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
                         <h6 class="time highlight">€ 239,00 + € 3,6 city tax per attendee</h6>
                     </a>
-                </div>
+                    <div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
+                          <p class="description">&nbsp;</p>
+                    </div>
+              </div>
                 <div class="panel schedule-item">
                     <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
                         <strong class="time highlight">Single room</strong>
                         <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
                         <h6 class="time highlight">€ 329,00 + € 3,6 city tax per attendee</h6>
                     </a>
+                    <div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
+                          <p class="description">&nbsp;</p>
+                    </div>
                 </div>
             </div>
         </div>

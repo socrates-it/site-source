@@ -15,6 +15,7 @@
 <meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}">
 <meta name="author" content="{{ with .Site.Params.name }}{{ . }}{{ end }}">
 <meta name="image" property="og:image" content="img/header-bg.jpg">
+<meta name="title" property="og:title" content="{{ .Site.Title }}" >
 {{ .Hugo.Generator }}
 <title>{{ .Site.Title }}</title>
 {{ "<!-- Bootstrap Core CSS -->" | safeHTML }}

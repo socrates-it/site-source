@@ -77,7 +77,7 @@ theme = "hugo-agency-theme"
 	[params.about]
 		enable = true
 		title = "It is about"
-		subtitle = "This event is about the sustainable creation of useful software in a responsible way."
+		subtitle = "SoCraTes IT"
 
 
 		[params.about.modal]

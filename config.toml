@@ -137,6 +137,7 @@ theme = "hugo-agency-theme"
 		subtitle = "The first “Software Craftsmanship and Testing (un)conference” took place a few years ago in Germany and is organised every year since 2011."
 		description = "Other conferences"
 
+                
 
 		[[params.team.members]]
 			name = "SoCraTes Switzerland"
@@ -184,6 +185,13 @@ theme = "hugo-agency-theme"
 			name = "SoCraTes Austria"
 			position = "Austria"
       link = "https://socrates-conference.at/"
+
+		[[params.team.members]]
+			name = "Agile Crete"
+			position = "Grece"
+                        link = "https://agilecrete.org/"
+
+
 
     [[params.team.members]]
 			name = "JSCraftCamp"

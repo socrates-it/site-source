@@ -102,7 +102,10 @@ title = "Registration"
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4e24ba7602f7acf9fe79737d3_1b715b2bcc" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4e24ba7602f7acf9fe79737d3_  be9dbd9e7a" tabindex="-1" value=""></div>
+      <div class="clear"><input type="submit" value="Register now" name="subscribe" id="mc-embedded-subscribe" class="button">
+      </div>
+
     </div>
 </form>
 </div>

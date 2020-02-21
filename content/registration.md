@@ -120,7 +120,7 @@ We are going to be in the hotel, night and day. That is why, we have chosen the 
 Since one of the important aspects of SoCraTes is being close to the “action”, everything will happen within
 the location: lodging, eating and mingling. As a result, we can only accept as many participants as the
 number of available beds.
-
+<br/><br/>
 
 <div class="container">
         <div class="intro-text">
@@ -129,18 +129,21 @@ number of available beds.
         
 </div>
 
+<br />
 
 ## What is included in the cost?
 
-* Two nights full-board: breakfast, lunch, dinner and snack buffet all day (vegetarian and gluten-free food included!)
+* **Two nights full-board**: breakfast, lunch, dinner and snack buffet all day (vegetarian and gluten-free food included!)
 * The hotel has both twin or double rooms. If there is someone you are willing to share the room with, feel free to book the double room. If you don’t know anyone, don’t worry: sign in the [Sofware Crafters #italian channel on Slack](http://bit.ly/SlackSocrates) and find a suitable roommate.
 * City tax
-* Access to the wellness area: indoor pool, heated outdoor pool, and wet area
-* Access to the gym with cardio and fitness equipment
-* [Trentino Guest Card](https://www.visittrentino.info/en/experience/trentino-guest-card): free circulation on public transport within Trentino and free or discounted entry to over 60 museums, 20 castles, and 20 attractions.
-* Use of mountain bikes
+* Access to the **wellness area**: indoor pool, heated outdoor pool, and wet area
+* Access to the **gym** with cardio and fitness equipment
+* [**Trentino Guest Card**](https://www.visittrentino.info/en/experience/trentino-guest-card): free circulation on public transport within Trentino and free or discounted entry to over 60 museums, 20 castles, and 20 attractions.
+* Use of **mountain bikes**.
 
 The unconference’s beverages will be covered by the sponsors.
+
+<br /><br />
 
 <div class="row schedule schedule-light">
     <ul class="nav nav-schedule">
@@ -153,14 +156,14 @@ The unconference’s beverages will be covered by the sponsors.
                     <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
                         <strong class="time highlight">Double room</strong>
                         <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
-                        <h6 class="title">€ 239,00 + € 3,6 city tax per attendee</h6>
+                        <h6 class="time highlight">€ 239,00 + € 3,6 city tax per attendee</h6>
                     </a>
                 </div>
                 <div class="panel schedule-item">
                     <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
                         <strong class="time highlight">Single room</strong>
                         <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
-                        <h6 class="title">€ 329,00 + € 3,6 city tax per attendee</h6>
+                        <h6 class="time highlight">€ 329,00 + € 3,6 city tax per attendee</h6>
                     </a>
                 </div>
             </div>

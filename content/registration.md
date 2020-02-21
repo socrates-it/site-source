@@ -130,7 +130,7 @@ number of available beds.
 </div>
 
 
-What is it included in the cost?
+## What is included in the cost?
 
 * Two nights full-board: breakfast, lunch, dinner and snack buffet all day (vegetarian and gluten-free food included!)
 * The hotel has both twin or double rooms. If there is someone you are willing to share the room with, feel free to book the double room. If you don’t know anyone, don’t worry: sign in the [Sofware Crafters #italian channel on Slack](http://bit.ly/SlackSocrates) and find a suitable roommate.

@@ -8,7 +8,9 @@ theme = "hugo-agency-theme"
 
 [markup]
         defaultMarkdownHandler = "blackfriday"
-
+[blackfriday]
+        plainIDAnchors = true
+        hrefTargetBlank = true
 
 [params]
 

@@ -11,7 +11,7 @@
             {{ range .Site.Params.team.members }}
             <div class="col-xs-6">
                 <div class="team-member">
-                    <a href="{{ .link }}"> {{ .name | markdownify }}</a>
+                    <a href="{{ .link }}" target="_blank"> {{ .name | markdownify }}</a>
                 </div>
             </div>
             {{ end }}

@@ -29,13 +29,13 @@ We collect a variety of information from you when you provide it to us directly,
 
 * Attendee registration information. When you register to attend a Conference, you must provide us with basic information such as name, surname and email address. We also give you the option to provide additional information.
 * Conference survey responses. We may ask you to participate in optional surveys regarding your experience at the Conference in order to help us improve the event and for related commercial purposes.
-* We use Gmail by Google as our email provider. Your data may be transferred to Google for processing in accordance with their Privacy Policy.
-* We use Bitly for link shortening. Your data may be transferred to Bitly for processing in accordance with their Privacy Policy.
-* We use Mailchimp (The Rocket Science Group, LLC) to manage email marketing subscriber lists and send emails to our subscribers. Read their Privacy Policy.
+* We use Gmail by Google as our email provider. Your data may be transferred to Google for processing in accordance with their [Privacy Policy](https://policies.google.com/privacy?hl=en-US).
+* We use Bitly for link shortening. Your data may be transferred to Bitly for processing in accordance with their [Privacy Policy](https://bitly.com/pages/privacy).
+* We use Mailchimp (The Rocket Science Group, LLC) to manage email marketing subscriber lists and send emails to our subscribers. Read their [Privacy Policy](https://mailchimp.com/legal/privacy/).
 
 About payment:
 
-The Hotel AlpHoliday Dolomiti via Campiglio, 4 38025 Dimaro, Val di Sole, Trentino Alto Adige, Italia – VAT.ID 01896360227 - www.alpholiday.it , (the “Hotel”) directly owns your payment and credit card information. When purchasing tickets to attend a Conference, you must provide to the Hotel your name, address, telephone number, email address, credit card, debit card or bank information and other additional information. This information will not share with the Organizer.
+The Hotel AlpHoliday Dolomiti via Campiglio, 4 38025 Dimaro, Val di Sole, Trentino Alto Adige, Italia – VAT.ID 01896360227 - [www.alpholiday.it](https://www.alpholiday.it) , (the “Hotel”) directly owns your payment and credit card information. When purchasing tickets to attend a Conference, you must provide to the Hotel your name, address, telephone number, email address, credit card, debit card or bank information and other additional information. This information will not share with the Organizer.
 
 The Hotel perform tasks required to complete the purchase transaction.
 

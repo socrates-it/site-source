@@ -115,55 +115,58 @@ title = "Registration"
     </div>
     <br />
   </div>
+
+  <div>
+    <h2>What is included in the cost?</h2>
+    <ul>
+      <li><strong>Two nights full-board</strong>: breakfast, lunch, dinner and snack buffet all day (vegetarian and gluten-free food included!)</li>
+      <li>The hotel has both twin or double rooms. If there is someone you are willing to share the room with, feel free to book the double room. If you don’t know anyone, don’t worry: sign in the <a href="http://bit.ly/SlackSocrates" target="_blank">Sofware Crafters #italian channel on Slack</a> and find a suitable roommate</li>
+      <li>City tax</li>
+      <li>Access to the <strong>wellness area</strong>: indoor pool, heated outdoor pool, and wet area</li>
+      <li>Access to the <strong>gym</strong> with cardio and fitness equipment</li>
+      <li><a href="https://www.visittrentino.info/en/experience/trentino-guest-card" target="_blank"><strong>Trentino Guest Card</strong></a>: free circulation on public transport within Trentino and free or discounted entry to over 60 museums, 20 castles, and 20 attractions.</li>
+      <li>Use of <strong>mountain bikes</strong></li>
+    </ul>
+    <p>The unconference’s beverages will be covered by the sponsors.</p>
+    <br/>
+    <br/>
+
+  <div class="schedule schedule-light">
+    <ul class="nav nav-schedule">
+      <li><a href="Rooms" data-toggle="tab">Rooms</a></li>
+    </ul>
+    <div class="tab-content">
+      <div id="schedule3_day1" class="tab-pane fade active in">
+        <div class="panel-group" id="schedule3_day1_timeline">
+          <div class="panel schedule-item">
+            <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
+              <strong class="time highlight">Double room</strong>
+              <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
+              <h6 class="time highlight price">€ 242,60 per attendee</h6>
+            </a>
+            <div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
+              <p class="description">&nbsp;</p>
+            </div>
+          </div>
+          <div class="panel schedule-item">
+            <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
+              <strong class="time highlight">Single room</strong>
+              <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
+              <h6 class="time highlight price">€ 332,60 per attendee</h6>
+            </a>
+            <div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
+              <p class="description">&nbsp;</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  </div>
+
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
 <script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[4]='MMERGE4';ftypes[4]='radio';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 <div></div>
-
-
-## What is included in the cost?
-
-* **Two nights full-board**: breakfast, lunch, dinner and snack buffet all day (vegetarian and gluten-free food included!)
-* The hotel has both twin or double rooms. If there is someone you are willing to share the room with, feel free to book the double room. If you don’t know anyone, don’t worry: sign in the [Sofware Crafters #italian channel on Slack](http://bit.ly/SlackSocrates) and find a suitable roommate.
-* City tax
-* Access to the **wellness area**: indoor pool, heated outdoor pool, and wet area
-* Access to the **gym** with cardio and fitness equipment
-* [**Trentino Guest Card**](https://www.visittrentino.info/en/experience/trentino-guest-card): free circulation on public transport within Trentino and free or discounted entry to over 60 museums, 20 castles, and 20 attractions.
-* Use of **mountain bikes**.
-
-The unconference’s beverages will be covered by the sponsors.
-
-<br /><br />
-
-<div class="row schedule schedule-light">
-    <ul class="nav nav-schedule">
-        <li><a href="Rooms" data-toggle="tab">Rooms</a></li>
-    </ul>
-    <div class="tab-content">
-        <div id="schedule3_day1" class="tab-pane fade active in">
-            <div class="panel-group" id="schedule3_day1_timeline">
-                <div class="panel schedule-item">
-                    <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
-                        <strong class="time highlight">Double room</strong>
-                        <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
-                        <h6 class="time highlight price">€ 242,60 per attendee</h6>
-                    </a>
-                    <div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
-                          <p class="description">&nbsp;</p>
-                    </div>
-              </div>
-                <div class="panel schedule-item">
-                    <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
-                        <strong class="time highlight">Single room</strong>
-                        <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
-                        <h6 class="time highlight price">€ 332,60 per attendee</h6>
-                    </a>
-                    <div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
-                          <p class="description">&nbsp;</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>

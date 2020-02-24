@@ -118,7 +118,6 @@ title = "Registration"
                         <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
                             <label class="checkbox subfield" for="gdpr_45021"><input type="checkbox" id="gdpr_45021" name="gdpr[45021]" value="Y" class="av-checkbox gdpr"><span>I consent to the processing of personal data as per Privacy Policy</span> </label>
                         </fieldset>
-                        <p>You can change your mind at any time by clicking the unsubscribe link in the footer of any email you receive from us.</p>
                     </div>
                 </div>
                 <div id="mce-responses" class="clear">

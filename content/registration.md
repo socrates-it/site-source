@@ -148,8 +148,6 @@ title = "Registration"
     </div>
 </div>
 <!--End mc_embed_signup-->
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
-<script type='text/javascript' src='/js/registration.js'></script>
 
 ## Location
 We are going to be in the hotel, night and day. That is why, we have chosen the [AlpHoliday Dolomiti Wellness & Fun Hotel](https://www.alpholiday.it/) in Dimaro (Trento) as our location for the unconference.

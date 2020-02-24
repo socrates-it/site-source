@@ -284,3 +284,7 @@ Prices are per person and include 3 nights accommodation, 3 dinners, 3 lunches, 
     [[params.footer.quicklinks]]
       text = "Privacy Policy"
       link = "/privacy-policy"
+
+    [[params.footer.quicklinks]]
+      text = "Credits"
+      link = "/credits"

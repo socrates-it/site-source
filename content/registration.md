@@ -113,9 +113,9 @@ title = "Registration"
                 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
                     <div class="content__gdpr">
                         <label>Privacy</label>
-                        <p>Pursuant to and for the purposes of Article 13 of the EU REG 679/2016</p>
+                        <p>Pursuant to and for the purposes of Article 13 of the EU REG 679&#47;2016</p>
                         <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-                            <label class="checkbox subfield" for="gdpr_45021"><input type="checkbox" id="gdpr_45021" name="gdpr[45021]" value="Y" class="av-checkbox gdpr"><span>I consent to the processing of personal data as per Privacy Policy</span> </label>
+                            <label class="checkbox subfield" for="gdpr_45021"><input type="checkbox" id="gdpr_45021" name="gdpr[45021]" value="Y" class="av-checkbox gdpr"><span>I consent to the processing of personal data as per [Privacy Policy](/privacy-policy)</span> </label>
                         </fieldset>
                     </div>
                 </div>

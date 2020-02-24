@@ -44,9 +44,8 @@ theme = "hugo-agency-theme"
 	[params.navigation]
 		brand = "SoCraTes IT"
 		about = "About"
-    schedule = "Schedule"
+                schedule = "Schedule"
 		portfolio = "Information"
-#    team = "Partners"
 		contact = "Register now"
 		sponsors = "Sponsors"
 
@@ -69,8 +68,8 @@ theme = "hugo-agency-theme"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-    date = "4-6 June 2020"
-    location = "Dimaro (Trento)"
+                date = "4-6 June 2020"
+                location = "Dimaro (Trento)"
 		title = "SoCraTes IT"
 		subtitle = "Software Craftsmanship and Testing Conference"
 		buttontext = "Register now"
@@ -208,7 +207,7 @@ theme = "hugo-agency-theme"
 		enable = true
 		title = "Sponsors"
 		subtitle = "Do you want to sponsor the event?"
-    email = "socrates-it@googlegroups.com"
+                email = "socrates-it@googlegroups.com"
     
  		[[params.sponsor]]
  			name = "Connexxo"

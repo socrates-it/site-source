@@ -24,7 +24,7 @@ theme = "hugo-agency-theme"
 	# To provide some metadata for search engines feel free to add a few
 	# information about you and your website.
 	name = "SoCraTes IT"
-	description = "Software Craftsmanship and Testing Conference Italy"
+	description = "Software Craft and Testing Conference Italy"
 
 	# Since this template is static, the contact form uses www.formspree.io as a
 	# proxy. The form makes a POST request to their servers to send the actual
@@ -71,7 +71,7 @@ theme = "hugo-agency-theme"
                 date = "4-6 June 2020"
                 location = "Dimaro (Trento)"
 		title = "SoCraTes IT"
-		subtitle = "Software Craftsmanship and Testing Conference"
+		subtitle = "Software Craft and Testing Conference"
 		buttontext = "Register now"
 
 	# About section
@@ -94,7 +94,7 @@ theme = "hugo-agency-theme"
 			[[params.about.row.list]]
 				icon = "fa-users"
 				title = "People"
-				description = "Everyone who is concerned with coding, testing, code quality and software craftsmanship. There is no agenda and there are no speakers before the event starts. Proposals are presented during the event itself in the mornings, and voted by the participants right after. Meet us if you want to share your knowledge, experience and expertise!"
+				description = "Everyone who is concerned with coding, testing, code quality and software craft. There is no agenda and there are no speakers before the event starts. Proposals are presented during the event itself in the mornings, and voted by the participants right after. Meet us if you want to share your knowledge, experience and expertise!"
 
 			[[params.about.row.list]]
 				icon = "fa-play-circle"
@@ -133,7 +133,7 @@ theme = "hugo-agency-theme"
   [params.team]
 		enable = true
 		title = "Partners"
-		subtitle = "The first “Software Craftsmanship and Testing (un)conference” took place a few years ago in Germany and is organised every year since 2011."
+		subtitle = "The first “Software Craft and Testing (un)conference” took place a few years ago in Germany and is organised every year since 2011."
 		description = "Other conferences"
 
 		[[params.team.members]]

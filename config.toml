@@ -214,6 +214,11 @@ theme = "hugo-agency-theme"
  			logo = "connexxo.png"
  			link = "http://www.connexxo.com"
 
+                [[params.sponsor]]
+ 			name = "doubleloop"
+ 			logo = "doubleloop.png"
+ 			link = "http://www.doubleloop.io"
+
 #    [[params.sponsor]]
 # 			name = "lastminute"
 # 			logo = "lastminute.png"
@@ -224,10 +229,6 @@ theme = "hugo-agency-theme"
 # 			logo = "xpeppers.png"
 # 			link = "https://www.xpeppers.com"
 #
-#    [[params.sponsor]]
-# 			name = "doubleloop"
-# 			logo = "doubleloop.png"
-# 			link = "http://www.doubleloop.io"
 #
 
 

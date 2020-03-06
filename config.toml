@@ -208,7 +208,7 @@ theme = "hugo-agency-theme"
 		title = "Sponsors"
 		subtitle = "Do you want to sponsor the event?"
                 email = "socrates-it@googlegroups.com"
-    
+
  		[[params.sponsor]]
  			name = "Connexxo"
  			logo = "connexxo.png"
@@ -229,16 +229,21 @@ theme = "hugo-agency-theme"
 # 			logo = "doubleloop.png"
 # 			link = "http://www.doubleloop.io"
 #
-#    [[params.sponsor]]
-# 			name = "Avanscoperta"
-# 			logo = "avanscoperta.png"
-# 			link = "https://www.avanscoperta.it"
 
 
 # 		[[params.sponsor]]
 # 			name = "Codurance"
 # 			logo = "codurance-square.png"
 # 			link = "http://codurance.com"
+
+	# Media Partner section
+	[params.mediaPartners]
+		title = "Media Partners"
+
+	    [[params.mediaPartner]]
+			name = "Avanscoperta"
+			logo = "avanscoperta.png"
+			link = "https://www.avanscoperta.it"
 
 	# Client section
 	[params.clients_list]

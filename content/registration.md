@@ -34,17 +34,18 @@ Since one of the important aspects of SoCraTes is being close to the “action�
 
 <br/>
 
+
 ## What is included in the cost?
 
 * **Two nights full-board**: breakfast, lunch, dinner and snack buffet all day (vegetarian and gluten-free food included!)
-* The hotel has both twin or double rooms. If there is someone you are willing to share the room with, feel free to book the double room. If you don’t know anyone, don’t worry: sign in the [Sofware Crafters #italian channel on Slack](http://bit.ly/SlackSocrates) and find a suitable roommate.
+* Use of the congress rooms
+* The hotel has both twin and double rooms. If there is someone you are willing to share the room with, feel free to book the double room. If you don’t know anyone, don’t worry: sign in to the Sofware Crafters #italian channel on Slack and find a suitable roommate.
 * City tax
-* Access to the **wellness area**: indoor pool, heated outdoor pool, and wet area
-* Access to the **gym** with cardio and fitness equipment
-* [**Trentino Guest Card**](https://www.visittrentino.info/en/experience/trentino-guest-card): free circulation on public transport within Trentino and free or discounted entry to over 60 museums, 20 castles, and 20 attractions.
-* Use of **mountain bikes**.
 
-The unconference’s beverages will be covered by the sponsors.
+## Why is the cost variable?
+
+SoCraTes IT is a no-profit event, which implies that the exact cost of a ticket will depend on the amount of sponsorship we receive. All the sponsorship money will cover the cost of the congress rooms. It could be also used to offer extra amenities during the conference or to reduce the ticket prices for all participants.
+
 
 <br/><br/>
 

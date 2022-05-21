@@ -20,11 +20,10 @@ title = "Registration"
 </div>
 
 ## Location
-We are going to be in the hotel, night and day. That is why, we have chosen the [AlpHoliday Dolomiti Wellness & Fun Hotel](https://www.alpholiday.it/) in Dimaro (Trento) as our location for the unconference.
+We are going to be in the hotel, night and day. That is why we have chosen the [Hotel Sporting Rimini](https://www.hotelsportingrimini.com/) in [Rimini (RN)](https://www.google.com/maps/place/Hotel+Sporting+Rimini/@44.0692481,12.5777186,17z/data=!3m1!4b1!4m8!3m7!1s0x132cc3771484e347:0xa0d37c9d07777d6b!5m2!4m1!1i2!8m2!3d44.0692443!4d12.5799073) as our location for the unconference.
 
-Since one of the important aspects of SoCraTes is being close to the “action”, everything will happen within
-the location: lodging, eating and mingling. As a result, we can only accept as many participants as the
-number of available beds.
+Since one of the important aspects of SoCraTes is being close to the “action”, everything will happen within the location: lodging, eating and mingling. As a result, we can only accept as many participants as the number of available rooms!
+
 <br/><br/>
 
 <div class="container">

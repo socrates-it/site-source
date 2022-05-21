@@ -68,8 +68,8 @@ theme = "hugo-agency-theme"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-                date = "4-6 June 2020"
-                location = "Dimaro (Trento)"
+                date = "22-24 September 2022"
+                location = "Rimini"
 		title = "SoCraTes IT"
 		subtitle = "Software Craft and Testing Conference"
 		buttontext = "Register now"

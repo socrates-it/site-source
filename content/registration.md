@@ -60,7 +60,7 @@ SoCraTes IT is a no-profit event, which implies that the exact cost of a ticket 
                     <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
                         <strong class="time highlight">Double room</strong>
                         <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
-                        <h6 class="time highlight price">€ 242,60 per attendee</h6>
+                        <h6 class="time highlight price">From € 223 to € 296.20 per attendee</h6>
                     </a>
                     <div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
                         <p class="description">&nbsp;</p>
@@ -70,7 +70,7 @@ SoCraTes IT is a no-profit event, which implies that the exact cost of a ticket 
                     <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
                         <strong class="time highlight">Single room</strong>
                         <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
-                        <h6 class="time highlight price">€ 332,60 per attendee</h6>
+                        <h6 class="time highlight price">fro € 283 to € 356.20 per attendee</h6>
                     </a>
                     <div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
                         <p class="description">&nbsp;</p>

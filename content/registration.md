@@ -92,7 +92,8 @@ Since one of the important aspects of SoCraTes is being close to the “action",
 
 <div class="container">
   <div class="intro-text">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11466.733896069858!2d12.5799073!3d44.0692443!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa0d37c9d07777d6b!2sHotel%20Sporting%20Rimini!5e0!3m2!1sit!2sch!4v1651576933196!5m2!1sit!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2866.7033423208427!2d12.577975515511294!3d44.06883407910921!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132cc377163d5c69%3A0x342e6d3ad7ed633a!2sHotel%20Ambasciatori%20Rimini!5e0!3m2!1sit!2sch!4v1654065074501!5m2!1sit!2sch" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+    </iframe> 
   </div>
 </div>
 

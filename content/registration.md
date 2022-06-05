@@ -1,7 +1,7 @@
 +++
 title = "Registration"
+ogTitle = "SoCraTes IT - Registration"
 +++
-
 
 <style type="text/css">
     #registration-form {

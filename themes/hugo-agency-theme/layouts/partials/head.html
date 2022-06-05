@@ -15,7 +15,7 @@
 <meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}">
 <meta name="author" content="{{ with .Site.Params.name }}{{ . }}{{ end }}">
 <meta name="image" property="og:image" content="img/header-bg.jpg">
-<meta name="title" property="og:title" content="{{ .Site.Title }}" >
+<meta name="title" property="og:title" content='{{ $.Param "ogTitle" }}' >
 <meta name="description" property="og:description" content="{{ .Site.Params.Description }}" >
 
 

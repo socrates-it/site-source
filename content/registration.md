@@ -82,9 +82,11 @@ ogTitle = "SoCraTes IT - Registration"
 
 
 ## Location
-We are going to be in the hotel, night and day. That is why we have chosen the [Hotel Sporting Rimini](https://www.hotelsportingrimini.com/) in [Rimini (RN)](https://www.google.com/maps/place/Hotel+Sporting+Rimini/@44.0692481,12.5777186,17z/data=!3m1!4b1!4m8!3m7!1s0x132cc3771484e347:0xa0d37c9d07777d6b!5m2!4m1!1i2!8m2!3d44.0692443!4d12.5799073) as our location for the unconference.
+We are going to be together in the hotel, night and day. That is why we have chosen the [Hotel Ambasciatori ****](https://www.hotelambasciatori.it/) in [Rimini](https://www.google.com/maps/place/Hotel+Ambasciatori+Rimini/@44.0688379,12.5779755,17z/data=!3m1!4b1!4m8!3m7!1s0x132cc377163d5c69:0x342e6d3ad7ed633a!5m2!4m1!1i2!8m2!3d44.0689435!4d12.5804307) (RN) as our main location for the unconference.
 
-Since one of the important aspects of SoCraTes is being close to the “action”, everything will happen within the location: lodging, eating and mingling. As a result, we can only accept as many participants as the number of available rooms!
+We will move to the near restaurant to enjoy our lunch and dinner.
+
+Since one of the important aspects of SoCraTes is being close to the “action", we could only accept as many participants as the number of available rooms!
 
 <br/><br/>
 

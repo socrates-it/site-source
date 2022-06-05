@@ -104,10 +104,6 @@ Since one of the important aspects of SoCraTes is being close to the “action�
 * The hotel has both twin and double rooms. If there is someone you are willing to share the room with, feel free to book the double room. If you don’t know anyone, don’t worry: sign in to the Sofware Crafters #italian channel on Slack and find a suitable roommate.
 * City tax
 
-## Why is the cost variable?
-
-SoCraTes IT is a no-profit event, which implies that the exact cost of a ticket will depend on the amount of sponsorship we receive. All the sponsorship money will cover the cost of the congress rooms. It could be also used to offer extra amenities during the conference or to reduce the ticket prices for all participants.
-
 
 <br/><br/>
 
@@ -122,7 +118,7 @@ SoCraTes IT is a no-profit event, which implies that the exact cost of a ticket 
                     <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
                         <strong class="time highlight">Double room</strong>
                         <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
-                        <h6 class="time highlight price">From € 223 to € 296.20 per attendee</h6>
+                        <h6 class="time highlight price">From € 226 per attendee</h6>
                     </a>
                     <div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
                         <p class="description">&nbsp;</p>
@@ -132,7 +128,7 @@ SoCraTes IT is a no-profit event, which implies that the exact cost of a ticket 
                     <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
                         <strong class="time highlight">Single room</strong>
                         <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
-                        <h6 class="time highlight price">fro € 283 to € 356.20 per attendee</h6>
+                        <h6 class="time highlight price">fro € 286 per attendee</h6>
                     </a>
                     <div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
                         <p class="description">&nbsp;</p>

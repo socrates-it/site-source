@@ -104,7 +104,7 @@ Since one of the important aspects of SoCraTes is being close to the “action",
 
 * **Two nights full-board**: breakfast, lunch, dinner and snack buffet all day (vegetarian and gluten-free food included!)
 * Use of the congress rooms
-* The hotel has both twin and double rooms. If there is someone you are willing to share the room with, feel free to book the double room. If you don’t know anyone, don’t worry: sign in to the Sofware Crafters #italian channel on Slack and find a suitable roommate.
+* The hotel has both twin and double rooms. If there is someone you are willing to share the room with, feel free to book the double room. If you don’t know anyone, don’t worry: sign in to the [Sofware Crafters #italian channel](http://slack.softwarecraftsmanship.org/) on Slack and find a suitable roommate.
 * City tax
 
 

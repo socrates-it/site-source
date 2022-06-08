@@ -4,7 +4,7 @@ ogTitle = "SoCraTes IT - Registration"
 +++
 
 <div class="registration-form" style="text-align: center;">
-<a class="btn btn-primary btn-lg highlighted" role="button" href="https://us20.list-manage.com/contact-form?u=4e24ba7602f7acf9fe79737d3&form_id=d5789d443bf4254a62c1385fe77bf4d0">Go to Registration Form</a>
+    <a class="btn btn-primary btn-lg highlighted" role="button" href="https://us20.list-manage.com/contact-form?u=4e24ba7602f7acf9fe79737d3&form_id=d5789d443bf4254a62c1385fe77bf4d0">Open Registration Form</a>
 </div>
 
 
@@ -67,4 +67,12 @@ Since one of the important aspects of SoCraTes is being close to the “action",
             </div>
         </div>
     </div>
+    
+    
+    
+<div class="registration-form" style="text-align: center; margin-top:2em;">
+    <a class="btn btn-primary btn-lg highlighted" role="button" href="https://us20.list-manage.com/contact-form?u=4e24ba7602f7acf9fe79737d3&form_id=d5789d443bf4254a62c1385fe77bf4d0">Open Registration Form</a>
+</div>
+
+    
 </div>

@@ -45,21 +45,21 @@ Since one of the important aspects of SoCraTes is being close to the “action",
         <div id="schedule3_day1" class="tab-pane fade active in">
             <div class="panel-group" id="schedule3_day1_timeline">
                 <div class="panel schedule-item">
-                    <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
+                    <div  class="schedule-item-toggle">
                         <strong class="time highlight">Double room</strong>
                         <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
                         <h6 class="time highlight price">from € 226 per attendee</h6>
-                    </a>
+                    </div>
                     <div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
                         <p class="description">&nbsp;</p>
                     </div>
                 </div>
                 <div class="panel schedule-item">
-                    <a data-toggle="collapse" href="#schedule3_day1_time1" class="schedule-item-toggle">
+                    <div class="schedule-item-toggle">
                         <strong class="time highlight">Single room</strong>
                         <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
                         <h6 class="time highlight price">from € 286 per attendee</h6>
-                    </a>
+                    </div>
                     <div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
                         <p class="description">&nbsp;</p>
                     </div>

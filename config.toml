@@ -7,7 +7,7 @@ theme = "hugo-agency-theme"
 #googleAnalytics = "UA-135356462-1"
 
 [markup]
-        defaultMarkdownHandler = "blackfriday"
+        defaultMarkdownHandler = "goldmark"
 [blackfriday]
         plainIDAnchors = true
         hrefTargetBlank = true

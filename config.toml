@@ -8,10 +8,10 @@ theme = "hugo-agency-theme"
 
 [markup]
         defaultMarkdownHandler = "goldmark"
-[blackfriday]
-        plainIDAnchors = true
-        hrefTargetBlank = true
-
+[markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = true
 [params]
 
 	# You can use Markdown syntax for urls [text](//url.to/source) or

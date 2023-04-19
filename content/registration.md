@@ -113,8 +113,6 @@ Since one of the important aspects of SoCraTes is being close to the “action",
 <br/>
 
 
-<center>Registration Coming soon: stay tuned</center>
-
 ## What is included in the cost?
 
 * **Two nights full-board**: breakfast, lunch, dinner and snack buffet all day (vegetarian and gluten-free food included!)

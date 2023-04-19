@@ -24,4 +24,4 @@ Use
 ```shell
 ./publish.sh
 ```
-to copy the content to `../socrates-it-test` for local testing
+to copy the content to `../socrates-it.github.io/` for publishing.

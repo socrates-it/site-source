@@ -13,6 +13,10 @@ ogTitle = "SoCraTes IT - Registration"
 		clear:left; 
 		font:14px Helvetica,Arial,sans-serif;
 	}
+
+  #mc-embedded-subscribe {
+    background-color: #dc493a;
+  }
 </style>
 <style type="text/css">
 	#mc-embedded-subscribe-form input[type=checkbox] {
@@ -20,7 +24,7 @@ ogTitle = "SoCraTes IT - Registration"
 		width: auto;
 		margin-right: 10px;
 	}
-	
+
 	#mergeRow-gdpr {
 		margin-top: 20px;
 	}
@@ -81,7 +85,7 @@ ogTitle = "SoCraTes IT - Registration"
 				<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4e24ba7602f7acf9fe79737d3_be9dbd9e7a" tabindex="-1" value=""></div>
 				<div class="optionalParent">
 					<div class="clear foot">
-						<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+						<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="background-color:#dc493a;"> 
 					</div>
 				</div>
 			</div>

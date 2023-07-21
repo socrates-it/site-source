@@ -245,7 +245,7 @@ theme = "hugo-agency-theme"
 	[[params.mediaPartner]]
 		name = "Avanscoperta"
 		logo = "avanscoperta.png"
-		link = "http://www.avanscoperta.it"
+		link = "https://www.avanscoperta.it/it/"
 
 	# Client section
 	[params.clients_list]

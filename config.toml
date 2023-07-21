@@ -220,6 +220,11 @@ theme = "hugo-agency-theme"
 		logo = "doubleloop.png"
 		link = "http://www.doubleloop.io"
 
+	[[params.sponsor]]
+		name = "CodicePlastico"
+		logo = "codiceplastico.png"
+		link = "https://codiceplastico.com/it/"
+
 #    [[params.sponsor]]
 # 			name = "lastminute"
 # 			logo = "lastminute.png"

@@ -45,7 +45,7 @@ theme = "hugo-agency-theme"
 	[params.navigation]
 		brand = "SoCraTes IT"
 		about = "About"
-                schedule = "Schedule"
+		schedule = "Schedule"
 		portfolio = "Information"
 		contact = "Register now"
 		sponsors = "Sponsors"
@@ -69,11 +69,10 @@ theme = "hugo-agency-theme"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-                date = "19-21 October 2023"
-                location = "Rimini"
+		date = "19-21 October 2023"
+        location = "Rimini"
 		title = "SoCraTes IT"
 		subtitle = "Software Craft and Testing Conference"
-		buttontext = "Register now"
 
 	# About section
 	[params.about]

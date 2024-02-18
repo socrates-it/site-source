@@ -347,7 +347,7 @@ header {
     text-align: center;
     color: white;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.png);
+    background-image: url(../img/header-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -404,11 +404,11 @@ header .intro-text .intro-title {
     font-weight: 700;
     
     text-shadow: none;
-    text-shadow:
-      -1px -1px 82px whitesmoke,
-      1px -1px 82px whitesmoke,
-      -1px 1px 82px whitesmoke,
-      1px 1px 82px ;
+/*     text-shadow: */
+/*       -1px -1px 82px whitesmoke, */
+/*       1px -1px 82px whitesmoke, */
+/*       -1px 1px 82px whitesmoke, */
+/*       1px 1px 82px ; */
 }
 
 
@@ -457,7 +457,7 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-title {
-        font-size: 112px;
+        font-size: 60px;
     }
 
     header .intro-text .intro-subtitle {

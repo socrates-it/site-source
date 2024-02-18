@@ -71,7 +71,7 @@ theme = "hugo-agency-theme"
 		# the 'static/img' folder.
 		date = "2024"
         location = "Rimini?"
-		title = "Coming soon"
+		title = "Stay tuned! Coming soon!"
 		subtitle = "<a href=\"#sponsors\">and looking for sponsors</a>"
 
 	# About section

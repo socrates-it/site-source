@@ -71,8 +71,8 @@ theme = "hugo-agency-theme"
 		# the 'static/img' folder.
 		date = "2024"
         location = "Rimini?"
-		title = "SoCraTes IT - Coming soon!"
-		subtitle = "Software Craft and Testing Conference"
+		title = "Coming soon"
+		subtitle = "<a href=\"#sponsors\">and looking for sponsors</a>"
 
 	# About section
 	[params.about]

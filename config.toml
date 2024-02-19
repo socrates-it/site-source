@@ -209,10 +209,6 @@ theme = "hugo-agency-theme"
 		subtitle = "Do you want to sponsor the event?"
 		email = "socrates-it@googlegroups.com"
 
-	[[params.sponsor]]
-		name = "Connexxo"
-		logo = "connexxo.png"
-		link = "http://www.connexxo.com"
 
 	[[params.sponsor]]
 		name = "doubleloop"
@@ -223,6 +219,11 @@ theme = "hugo-agency-theme"
 		name = "CodicePlastico"
 		logo = "codiceplastico.png"
 		link = "https://codiceplastico.com/it/"
+
+         [[params.sponsor]]
+		name = "Connexxo"
+		logo = "connexxo.png"
+		link = "http://www.connexxo.com"
 
 #    [[params.sponsor]]
 # 			name = "lastminute"

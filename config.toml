@@ -38,7 +38,7 @@ theme = "hugo-agency-theme"
 	# - send a dummy email yourself to confirm your account
 	# - click the confirm link in the email from www.formspree.ioS
 	# - you're done. Happy mailing!
-	email = "test@gmail.com"
+	email = "socrates.italia@gmail.com"
 	gforms = "153aAnAaKBsFqusTKXvyZjpgHbKx4LrhPVtn8VubkNKM"
 
 	# Navigation
@@ -206,8 +206,7 @@ theme = "hugo-agency-theme"
 	[params.sponsors]
 		enable = true
 		title = "Sponsors"
-		subtitle = "Do you want to sponsor the event?"
-		email = "socrates-it@googlegroups.com"
+		email = "socrates.italia@gmail.com"
 
 
 	[[params.sponsor]]

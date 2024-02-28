@@ -215,6 +215,12 @@ theme = "hugo-agency-theme"
 		link = "http://www.doubleloop.io"
 
 	[[params.sponsor]]
+		name = "Intré"
+		logo = "logoi3.png"
+		link = "http://www.intre.it"
+
+
+	[[params.sponsor]]
 		name = "CodicePlastico"
 		logo = "codiceplastico.png"
 		link = "https://codiceplastico.com/it/"

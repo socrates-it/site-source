@@ -248,6 +248,13 @@ theme = "hugo-agency-theme"
 # 			logo = "codurance-square.png"
 # 			link = "http://codurance.com"
 
+	[params.mediaPartners]
+		title = "Media partners"
+
+	[[params.mediaPartner]]
+		name = "Avanscoperta"
+		logo = "avanscoperta.png"
+		link = "https://www.avanscoperta.it/it/"
 
 	# Client section
 	[params.clients_list]

@@ -1,16 +1,9 @@
-/*!
- * Start Bootstrap - Agency Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
-
 body {
     overflow-x: hidden;
     /*font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;*/
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-size:16px;
 }
-
 
 .text-muted {
     color: #777;
@@ -282,8 +275,6 @@ fieldset[disabled] .btn-xl.active {
 }
 
 
-
-
 header {
     text-align: center;
     color: white;
@@ -295,12 +286,20 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    height: 700px;
 }
 
 header .intro-text {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    /* padding-top: 500px; */
+    /* padding-bottom: 50px; */
+    margin-bottom:100px;
     color: black;
+}
+
+header .announcement {
+    background: rgba(255, 255, 255, .3);
+    margin-top: 600px;
+    padding: 2em;
 }
 
 header .intro-text .intro-lead-in {
@@ -319,7 +318,6 @@ header .intro-text .intro-lead-in a {
 
 header .intro-text .intro-date {
     margin-bottom:0px;
-    font-size:4em;
     color:black;
 }
 header .intro-text .intro-date .location:before {

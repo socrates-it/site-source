@@ -170,6 +170,12 @@ name = "Intré"
 logo = "logoi3.png"
 link = "http://www.intre.it"
 
+[[params.sponsor]]
+name = "Soluzioni Futura"
+logo = "soluzioni-futura.jpg"
+link = "https://www.soluzionifutura.it/"
+
+
 
 [[params.sponsor]]
 name = "CodicePlastico"
@@ -180,6 +186,7 @@ link = "https://codiceplastico.com/it/"
 name = "Connexxo"
 logo = "connexxo.png"
 link = "http://www.connexxo.com"
+
 
 [params.mediaPartners]
 title = "Media partners"

@@ -35,12 +35,12 @@ sponsors = "Sponsors"
 [params.hero]
 date = "3-4-5 October 2024"
 location = "Rimini"
-title = "SoCraTes Italy - 2024"
-subtitle = "<a href=\"#sponsors\">and looking for sponsors</a>"
+title = "SoCraTes Italy"
+subtitle = "Opening soon"
 
 [params.about]
 enable = true
-title = "It is about"
+title = "Registrations are opening soon"
 subtitle = "SoCraTes IT"
 
 

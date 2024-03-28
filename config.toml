@@ -7,228 +7,228 @@ theme = "hugo-agency-theme"
 #googleAnalytics = "UA-135356462-1"
 
 [markup]
-        defaultMarkdownHandler = "goldmark"
+defaultMarkdownHandler = "goldmark"
 [markup.goldmark.renderer]
-      hardWraps = false
-      unsafe = true
-      xhtml = true
+hardWraps = false
+unsafe = true
+xhtml = true
 [params]
 
-	# You can use Markdown syntax for urls [text](//url.to/source) or
-	# most longer texts.
-	#
-	# All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
-	# for more icons. The icons are represented by their corresponding
-	# CSS class.
+# You can use Markdown syntax for urls [text](//url.to/source) or
+# most longer texts.
+#
+# All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+# for more icons. The icons are represented by their corresponding
+# CSS class.
 
-	# To provide some metadata for search engines feel free to add a few
-	# information about you and your website.
-	name = "SoCraTes IT"
-	description = "Software Craft and Testing Conference Italy"
-	ogTitle = "SoCraTes-IT"
+# To provide some metadata for search engines feel free to add a few
+# information about you and your website.
+name = "SoCraTes IT"
+description = "Software Craft and Testing Conference Italy"
+ogTitle = "SoCraTes-IT"
 
-	# Since this template is static, the contact form uses www.formspree.io as a
-	# proxy. The form makes a POST request to their servers to send the actual
-	# email. Visitors can send up to a 1000 emails each month for free.
-	#
-	# What you need to do for the setup?
-	#
-	# - set your email address under 'email' below
-	# - upload the generated site to your server
-	# - send a dummy email yourself to confirm your account
-	# - click the confirm link in the email from www.formspree.ioS
-	# - you're done. Happy mailing!
-	email = "socrates.italia@gmail.com"
-	gforms = "153aAnAaKBsFqusTKXvyZjpgHbKx4LrhPVtn8VubkNKM"
+# Since this template is static, the contact form uses www.formspree.io as a
+# proxy. The form makes a POST request to their servers to send the actual
+# email. Visitors can send up to a 1000 emails each month for free.
+#
+# What you need to do for the setup?
+#
+# - set your email address under 'email' below
+# - upload the generated site to your server
+# - send a dummy email yourself to confirm your account
+# - click the confirm link in the email from www.formspree.ioS
+# - you're done. Happy mailing!
+email = "socrates.italia@gmail.com"
+gforms = "153aAnAaKBsFqusTKXvyZjpgHbKx4LrhPVtn8VubkNKM"
 
-	# Navigation
-	[params.navigation]
-		brand = "SoCraTes IT"
-		about = "About"
-		schedule = "Schedule"
-		portfolio = "Information"
-		contact = "Register now"
-		sponsors = "Sponsors"
+# Navigation
+[params.navigation]
+brand = "SoCraTes IT"
+about = "About"
+schedule = "Schedule"
+portfolio = "Information"
+contact = "Register now"
+sponsors = "Sponsors"
 
-	# Add custom links. Those can be pre- and postpended to the default menu above.
-	# Use the weight attribute to order your custom links. Uncomment the example
-	# below and replace the values with your own.
+# Add custom links. Those can be pre- and postpended to the default menu above.
+# Use the weight attribute to order your custom links. Uncomment the example
+# below and replace the values with your own.
 
-	# prepended links
-	#[[menu.prepend]]
-	#    url = "http://gohugo.io"
-	#    name = "Hugo"
-	#    weight = 10
+# prepended links
+#[[menu.prepend]]
+#    url = "http://gohugo.io"
+#    name = "Hugo"
+#    weight = 10
 
-	# postpended links
-	#[[menu.postpend]]
-	#	url = "https://github.com/SoCraTes-it-test/socrates-it-test.github.io"
-	#	name = "Wiki"
+# postpended links
+#[[menu.postpend]]
+#	url = "https://github.com/SoCraTes-it-test/socrates-it-test.github.io"
+#	name = "Wiki"
 
-	# Hero section
-	[params.hero]
-		# To change the background image of the hero, replace 'header-bg.jpg' in
-		# the 'static/img' folder.
-		date = "2024"
-        location = "Rimini?"
-		title = "Stay tuned! Coming soon!"
-		subtitle = "<a href=\"#sponsors\">and looking for sponsors</a>"
+# Hero section
+[params.hero]
+# To change the background image of the hero, replace 'header-bg.jpg' in
+# the 'static/img' folder.
+date = "2024"
+location = "Rimini?"
+title = "Stay tuned! Coming soon!"
+subtitle = "<a href=\"#sponsors\">and looking for sponsors</a>"
 
-	# About section
-	[params.about]
-		enable = true
-		title = "It is about"
-		subtitle = "SoCraTes IT"
-
-
-		[params.about.modal]
-			client = "Client"
-			date = "Date"
-			category = "Category"
-			buttontext = "Close"
+# About section
+[params.about]
+enable = true
+title = "It is about"
+subtitle = "SoCraTes IT"
 
 
-
-		[[params.about.row]]
-
-			[[params.about.row.list]]
-				icon = "fa-users"
-				title = "People"
-				description = "Everyone who is concerned with coding, testing, code quality and software craft. There is no agenda and there are no speakers before the event starts. Proposals are presented during the event itself in the mornings, and voted by the participants right after. Meet us if you want to share your knowledge, experience and expertise!"
-
-			[[params.about.row.list]]
-				icon = "fa-play-circle"
-				title = "Action"
-				description = "The event will be run as a non-profit, low-cost event. It will be much like a retreat. We will be there for 48 hours to collaborate and share ideas in a self-organized Open Space. There will be hands-on coding sessions, sessions focused on discussion, interactive talks and lots more."
-
-			[[params.about.row.list]]
-				icon = "fa-plus-circle"
-				title = "Fun"
-				description = "We will not only spend the days together but also the nights. And – believe it or not – programmers are a great company! There will be be lots of opportunities to spend your time. Starting with simple chilling over hiking and biking, playing games, hanging around, talking and laughing."
+[params.about.modal]
+client = "Client"
+date = "Date"
+category = "Category"
+buttontext = "Close"
 
 
-	# Schedule section
-	[params.schedule]
-		enable = true
+
+[[params.about.row]]
+
+[[params.about.row.list]]
+icon = "fa-users"
+title = "People"
+description = "Everyone who is concerned with coding, testing, code quality and software craft. There is no agenda and there are no speakers before the event starts. Proposals are presented during the event itself in the mornings, and voted by the participants right after. Meet us if you want to share your knowledge, experience and expertise!"
+
+[[params.about.row.list]]
+icon = "fa-play-circle"
+title = "Action"
+description = "The event will be run as a non-profit, low-cost event. It will be much like a retreat. We will be there for 48 hours to collaborate and share ideas in a self-organized Open Space. There will be hands-on coding sessions, sessions focused on discussion, interactive talks and lots more."
+
+[[params.about.row.list]]
+icon = "fa-plus-circle"
+title = "Fun"
+description = "We will not only spend the days together but also the nights. And – believe it or not – programmers are a great company! There will be be lots of opportunities to spend your time. Starting with simple chilling over hiking and biking, playing games, hanging around, talking and laughing."
 
 
-	# Portfolio section
-	[params.portfolio]
-		enable = false
-		# All projects defined in their own files. You can find example projects
-		# at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
-		# at the root of this Hugo site.
-		# For more informtion take a look at the README.
-		title = "Information"
-		subtitle = "Information"
-
-		[params.portfolio.modal]
-			client = "Client"
-			date = "Date"
-			category = "Category"
-			buttontext = "Close"
+# Schedule section
+[params.schedule]
+enable = true
 
 
-	# Team section
-  [params.team]
-		enable = true
-		title = "Partners"
-		subtitle = "The first “Software Craft and Testing (un)conference” took place a few years ago in Germany and is organised every year since 2011."
-		description = "Other conferences"
+# Portfolio section
+[params.portfolio]
+enable = false
+# All projects defined in their own files. You can find example projects
+# at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
+# at the root of this Hugo site.
+# For more informtion take a look at the README.
+title = "Information"
+subtitle = "Information"
 
-		[[params.team.members]]
-			name = "SoCraTes Switzerland"
-			position = "Switzerland"
-                        link = "https://www.socrates-ch.org/"
-
-		[[params.team.members]]
-			name = "SoCraTes Day Switzerland"
-			position = "Switzerland"
-                        link = "http://socrates-day.ch"
-
-		[[params.team.members]]
-			name = "SoCraTes Canaries"
-			position = "Spain"
-                        link = "https://socracan.com/"
-
-		[[params.team.members]]
-			name = "SoCraTes UK"
-			position = "United Kingdom"
-                        link = "http://socratesuk.org"
-
-		[[params.team.members]]
-			name = "SoCraTes BE"
-			position = "Belgium"
-                        link = "http://socratesbe.org"
-
-		[[params.team.members]]
-			name = "SoCraTes Germany"
-			position = "Germany"
-                        link = "https://www.socrates-conference.de"
-
-		[[params.team.members]]
-			name = "SoCraTes Chile"
-			position = "Chile"
-                        link = "http://www.socrates-conference.cl/"
-
-		[[params.team.members]]
-			name = "SoCraTes FR"
-			position = "France"
-                        link = "https://socrates-fr.github.io/"
-
-                [[params.team.members]]
-			name = "SoCraTes Austria"
-			position = "Austria"
-                        link = "https://socrates-conference.at/"
-
-		[[params.team.members]]
-			name = "Agile Crete"
-			position = "Grece"
-                        link = "https://agilecrete.org/"
-
-                [[params.team.members]]
-			name = "JSCraftCamp"
-			position = "Germany"
-                        link = "http://jscraftcamp.org/"
-
-		[[params.team.members]]
-			name = "CodeFreeze"
-			position = "Finland"
-                        link = "http://www.codefreeze.fi"
-
-		[[params.team.members]]
-			name = "I T.A.K.E. Unconference"
-			position = "Romania"
-                        link = "http://itakeunconf.com"
+[params.portfolio.modal]
+client = "Client"
+date = "Date"
+category = "Category"
+buttontext = "Close"
 
 
-	# Sponsor section
-	[params.sponsors]
-		enable = true
-		title = "Sponsors"
-		email = "socrates.italia@gmail.com"
+# Team section
+[params.team]
+enable = true
+title = "Partners"
+subtitle = "The first “Software Craft and Testing (un)conference” took place a few years ago in Germany and is organised every year since 2011."
+description = "Other conferences"
+
+[[params.team.members]]
+name = "SoCraTes Switzerland"
+position = "Switzerland"
+link = "https://www.socrates-ch.org/"
+
+[[params.team.members]]
+name = "SoCraTes Day Switzerland"
+position = "Switzerland"
+link = "http://socrates-day.ch"
+
+[[params.team.members]]
+name = "SoCraTes Canaries"
+position = "Spain"
+link = "https://socracan.com/"
+
+[[params.team.members]]
+name = "SoCraTes UK"
+position = "United Kingdom"
+link = "http://socratesuk.org"
+
+[[params.team.members]]
+name = "SoCraTes BE"
+position = "Belgium"
+link = "http://socratesbe.org"
+
+[[params.team.members]]
+name = "SoCraTes Germany"
+position = "Germany"
+link = "https://www.socrates-conference.de"
+
+[[params.team.members]]
+name = "SoCraTes Chile"
+position = "Chile"
+link = "http://www.socrates-conference.cl/"
+
+[[params.team.members]]
+name = "SoCraTes FR"
+position = "France"
+link = "https://socrates-fr.github.io/"
+
+[[params.team.members]]
+name = "SoCraTes Austria"
+position = "Austria"
+link = "https://socrates-conference.at/"
+
+[[params.team.members]]
+name = "Agile Crete"
+position = "Grece"
+link = "https://agilecrete.org/"
+
+[[params.team.members]]
+name = "JSCraftCamp"
+position = "Germany"
+link = "http://jscraftcamp.org/"
+
+[[params.team.members]]
+name = "CodeFreeze"
+position = "Finland"
+link = "http://www.codefreeze.fi"
+
+[[params.team.members]]
+name = "I T.A.K.E. Unconference"
+position = "Romania"
+link = "http://itakeunconf.com"
 
 
-	[[params.sponsor]]
-		name = "doubleloop"
-		logo = "doubleloop.png"
-		link = "http://www.doubleloop.io"
-
-	[[params.sponsor]]
-		name = "Intré"
-		logo = "logoi3.png"
-		link = "http://www.intre.it"
+# Sponsor section
+[params.sponsors]
+enable = true
+title = "Sponsors"
+email = "socrates.italia@gmail.com"
 
 
-	[[params.sponsor]]
-		name = "CodicePlastico"
-		logo = "codiceplastico.png"
-		link = "https://codiceplastico.com/it/"
+[[params.sponsor]]
+name = "doubleloop"
+logo = "doubleloop.png"
+link = "http://www.doubleloop.io"
 
-         [[params.sponsor]]
-		name = "Connexxo"
-		logo = "connexxo.png"
-		link = "http://www.connexxo.com"
+[[params.sponsor]]
+name = "Intré"
+logo = "logoi3.png"
+link = "http://www.intre.it"
+
+
+[[params.sponsor]]
+name = "CodicePlastico"
+logo = "codiceplastico.png"
+link = "https://codiceplastico.com/it/"
+
+[[params.sponsor]]
+name = "Connexxo"
+logo = "connexxo.png"
+link = "http://www.connexxo.com"
 
 #    [[params.sponsor]]
 # 			name = "lastminute"
@@ -248,32 +248,32 @@ theme = "hugo-agency-theme"
 # 			logo = "codurance-square.png"
 # 			link = "http://codurance.com"
 
-	[params.mediaPartners]
-		title = "Media partners"
+[params.mediaPartners]
+title = "Media partners"
 
-	[[params.mediaPartner]]
-		name = "Avanscoperta"
-		logo = "avanscoperta.png"
-		link = "https://www.avanscoperta.it/it/"
+[[params.mediaPartner]]
+name = "Avanscoperta"
+logo = "avanscoperta.png"
+link = "https://www.avanscoperta.it/it/"
 
-	# Client section
-	[params.clients_list]
-		enable = false
+# Client section
+[params.clients_list]
+enable = false
 
-		# All the clients' logos are stored under 'static/img/logos'.
-		# Replace them with your clients's logos.
-		[[params.clients]]
-			logo = "test.jpg"
-			link = "http://www.test.fr"
+# All the clients' logos are stored under 'static/img/logos'.
+# Replace them with your clients's logos.
+[[params.clients]]
+logo = "test.jpg"
+link = "http://www.test.fr"
 
 
-  # Contact section
-	[params.contact]
-		enable = false
-		title = "Registration"
-		subtitle  = "The number of participants will be limited to 70."
-		buttontext = "Send message"
-		explains = """
+# Contact section
+[params.contact]
+enable = false
+title = "Registration"
+subtitle  = "The number of participants will be limited to 70."
+buttontext = "Send message"
+explains = """
 Prices are per person and include 3 nights accommodation, 3 dinners, 3 lunches, 3 breakfasts and breaks.
 
 | Kind             | Total cost | Information                               |
@@ -284,23 +284,23 @@ Prices are per person and include 3 nights accommodation, 3 dinners, 3 lunches, 
 | no accommodation | 240 €      | 3 dinners + 3 lunches                     |
 """
 
-	# Footer section
-	[params.footer]
-		enable = true
-		copyright = "Published under the Apache License 2.0."
+# Footer section
+[params.footer]
+enable = true
+copyright = "Published under the Apache License 2.0."
 
-		[[params.footer.social]]
-			icon = "fa-twitter"
-			link = "https://twitter.com/SoCraTes_Italy"
+[[params.footer.social]]
+icon = "fa-twitter"
+link = "https://twitter.com/SoCraTes_Italy"
 
-    [[params.footer.quicklinks]]
-      text = "Cookie Policy"
-      link = "/cookie-policy"
+[[params.footer.quicklinks]]
+text = "Cookie Policy"
+link = "/cookie-policy"
 
-    [[params.footer.quicklinks]]
-      text = "Privacy Policy"
-      link = "/privacy-policy"
+[[params.footer.quicklinks]]
+text = "Privacy Policy"
+link = "/privacy-policy"
 
-    [[params.footer.quicklinks]]
-      text = "Credits"
-      link = "/credits"
+[[params.footer.quicklinks]]
+text = "Credits"
+link = "/credits"

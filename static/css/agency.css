@@ -348,7 +348,7 @@ header {
     color: white;
     background-attachment: scroll;
     background-image: url(../img/header-bg.jpg);
-    background-position: center center;
+    background-position: top;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;

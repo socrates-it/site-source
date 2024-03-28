@@ -3,45 +3,26 @@ baseurl = "https://socrates-conference.it/"
 languageCode = "en-us"
 title = "SoCraTes-IT"
 theme = "hugo-agency-theme"
-# Enter your tracking code to enable Google Analytics
 #googleAnalytics = "UA-135356462-1"
 
 [markup]
 defaultMarkdownHandler = "goldmark"
+
 [markup.goldmark.renderer]
 hardWraps = false
 unsafe = true
 xhtml = true
+
 [params]
 
-# You can use Markdown syntax for urls [text](//url.to/source) or
-# most longer texts.
-#
-# All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
-# for more icons. The icons are represented by their corresponding
-# CSS class.
-
-# To provide some metadata for search engines feel free to add a few
-# information about you and your website.
 name = "SoCraTes IT"
 description = "Software Craft and Testing Conference Italy"
 ogTitle = "SoCraTes-IT"
 
-# Since this template is static, the contact form uses www.formspree.io as a
-# proxy. The form makes a POST request to their servers to send the actual
-# email. Visitors can send up to a 1000 emails each month for free.
-#
-# What you need to do for the setup?
-#
-# - set your email address under 'email' below
-# - upload the generated site to your server
-# - send a dummy email yourself to confirm your account
-# - click the confirm link in the email from www.formspree.ioS
-# - you're done. Happy mailing!
 email = "socrates.italia@gmail.com"
 gforms = "153aAnAaKBsFqusTKXvyZjpgHbKx4LrhPVtn8VubkNKM"
 
-# Navigation
+
 [params.navigation]
 brand = "SoCraTes IT"
 about = "About"
@@ -50,31 +31,13 @@ portfolio = "Information"
 contact = "Register now"
 sponsors = "Sponsors"
 
-# Add custom links. Those can be pre- and postpended to the default menu above.
-# Use the weight attribute to order your custom links. Uncomment the example
-# below and replace the values with your own.
 
-# prepended links
-#[[menu.prepend]]
-#    url = "http://gohugo.io"
-#    name = "Hugo"
-#    weight = 10
-
-# postpended links
-#[[menu.postpend]]
-#	url = "https://github.com/SoCraTes-it-test/socrates-it-test.github.io"
-#	name = "Wiki"
-
-# Hero section
 [params.hero]
-# To change the background image of the hero, replace 'header-bg.jpg' in
-# the 'static/img' folder.
 date = "2024"
 location = "Rimini?"
 title = "Stay tuned! Coming soon!"
 subtitle = "<a href=\"#sponsors\">and looking for sponsors</a>"
 
-# About section
 [params.about]
 enable = true
 title = "It is about"
@@ -86,7 +49,6 @@ client = "Client"
 date = "Date"
 category = "Category"
 buttontext = "Close"
-
 
 
 [[params.about.row]]
@@ -112,13 +74,9 @@ description = "We will not only spend the days together but also the nights. And
 enable = true
 
 
-# Portfolio section
+
 [params.portfolio]
 enable = false
-# All projects defined in their own files. You can find example projects
-# at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
-# at the root of this Hugo site.
-# For more informtion take a look at the README.
 title = "Information"
 subtitle = "Information"
 
@@ -129,7 +87,6 @@ category = "Category"
 buttontext = "Close"
 
 
-# Team section
 [params.team]
 enable = true
 title = "Partners"
@@ -230,24 +187,6 @@ name = "Connexxo"
 logo = "connexxo.png"
 link = "http://www.connexxo.com"
 
-#    [[params.sponsor]]
-# 			name = "lastminute"
-# 			logo = "lastminute.png"
-# 			link = "https://www.lastminute.com/"
-#
-#    [[params.sponsor]]
-# 			name = "XPeppers"
-# 			logo = "xpeppers.png"
-# 			link = "https://www.xpeppers.com"
-#
-#
-
-
-# 		[[params.sponsor]]
-# 			name = "Codurance"
-# 			logo = "codurance-square.png"
-# 			link = "http://codurance.com"
-
 [params.mediaPartners]
 title = "Media partners"
 
@@ -256,18 +195,14 @@ name = "Avanscoperta"
 logo = "avanscoperta.png"
 link = "https://www.avanscoperta.it/it/"
 
-# Client section
 [params.clients_list]
 enable = false
 
-# All the clients' logos are stored under 'static/img/logos'.
-# Replace them with your clients's logos.
 [[params.clients]]
 logo = "test.jpg"
 link = "http://www.test.fr"
 
 
-# Contact section
 [params.contact]
 enable = false
 title = "Registration"
@@ -284,7 +219,6 @@ Prices are per person and include 3 nights accommodation, 3 dinners, 3 lunches, 
 | no accommodation | 240 €      | 3 dinners + 3 lunches                     |
 """
 
-# Footer section
 [params.footer]
 enable = true
 copyright = "Published under the Apache License 2.0."

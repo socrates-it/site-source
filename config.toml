@@ -33,9 +33,9 @@ sponsors = "Sponsors"
 
 
 [params.hero]
-date = "2024"
-location = "Rimini?"
-title = "Stay tuned! Coming soon!"
+date = "3-4-5 October 2024"
+location = "Rimini"
+title = "SoCraTes Italy - 2024"
 subtitle = "<a href=\"#sponsors\">and looking for sponsors</a>"
 
 [params.about]
@@ -73,12 +73,6 @@ description = "We will not only spend the days together but also the nights. And
 [params.schedule]
 enable = true
 
-
-
-[params.portfolio]
-enable = false
-title = "Information"
-subtitle = "Information"
 
 [params.portfolio.modal]
 client = "Client"
@@ -195,29 +189,11 @@ name = "Avanscoperta"
 logo = "avanscoperta.png"
 link = "https://www.avanscoperta.it/it/"
 
-[params.clients_list]
-enable = false
 
 [[params.clients]]
 logo = "test.jpg"
 link = "http://www.test.fr"
 
-
-[params.contact]
-enable = false
-title = "Registration"
-subtitle  = "The number of participants will be limited to 70."
-buttontext = "Send message"
-explains = """
-Prices are per person and include 3 nights accommodation, 3 dinners, 3 lunches, 3 breakfasts and breaks.
-
-| Kind             | Total cost | Information                               |
-|------------------|------------|-------------------------------------------|
-| single rooms     | 610 €      |                                           |
-| double rooms     | 510 €      |                                           |
-| triple rooms     | 410 €      | Rooms are big from 25 to 36m² + bathrooms |
-| no accommodation | 240 €      | 3 dinners + 3 lunches                     |
-"""
 
 [params.footer]
 enable = true

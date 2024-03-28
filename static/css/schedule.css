@@ -39,7 +39,7 @@
 .call-to-action-section > .overlay:before,
 .thumb-wrapper .overlay:before,
 .header .buy-btn {
-    background-color: #dc493a;
+    background-color: #008000;
 }
 .schedule .tab-content .nav.nav-schedule > li.active > a:not(:hover):not(:active),
 .schedule .tab-content .nav.nav-schedule > li.active > a:hover,
@@ -354,7 +354,7 @@ input.header.header-color .navigation-header .buy-btn,
   color: #ffffff;
 }
 .schedule.schedule-light .nav.nav-schedule > li.active {
-    background-color: #dd9999;
+    background-color: #99dd99;
 }
 .schedule.schedule-light .tab-content {
   padding: 60px;

@@ -36,6 +36,10 @@
         color: white;
     }
 
+    a.highlighted {
+        border-radius: 22.5px;
+    }
+
     .navbar-nav li a.highlighted:hover,
     .navbar-nav li a.highlighted.active {
         border:1px solid #ee0000;

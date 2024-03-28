@@ -224,9 +224,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-    font-weight: 400;
     letter-spacing: 1px;
-    color: #000000;
     text-align:center;
 }
 
@@ -249,11 +247,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-nav li a.highlighted {
-    border:0;;
-    background-color: transparent;
-    border-radius: 0;
     width: 180px;
-    color: #eeaaaa;
     font-weight: 700;
 }
 

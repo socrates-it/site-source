@@ -138,7 +138,7 @@ Since one of the important aspects of SoCraTes is being close to the “action",
                     <div  class="schedule-item-toggle">
                         <strong class="time highlight">Shared double room</strong>
                         <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
-                        <h6 class="time highlight price">from € 246 per attendee</h6>
+                        <h6 class="time highlight price">from € 260 per attendee</h6>
                     </div>
                     <div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
                         <p class="description">&nbsp;</p>
@@ -148,7 +148,7 @@ Since one of the important aspects of SoCraTes is being close to the “action",
                     <div class="schedule-item-toggle">
                         <strong class="time highlight">Single room</strong>
                         <div class="lecture-icon-wrapper"><span class="fa fa-bed"></span></div>
-                        <h6 class="time highlight price">from € 306 per attendee</h6>
+                        <h6 class="time highlight price">from € 320 per attendee</h6>
                     </div>
                     <div id="schedule3_day1_time1" class="panel-collapse collapse in schedule-item-body">
                         <p class="description">&nbsp;</p>

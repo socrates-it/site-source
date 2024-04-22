@@ -12,15 +12,8 @@
             {{ partial "modals.html" . }}
         {{ end }}
 
-            {{ partial "schedule.html" . }}
+        {{ partial "schedule.html" . }}
 
-        {{ if .Site.Params.portfolio.enable }}
-            {{ partial "modals.html" . }}
-        {{ end }}
-
-        {{ if .Site.Params.portfolio.enable }}
-            {{ partial "portfolio.html" . }}
-        {{ end }}
 
         {{ if .Site.Params.team.enable }}
             {{ partial "team.html" . }}
@@ -28,14 +21,6 @@
 
         {{ if .Site.Params.sponsors.enable }}
             {{ partial "sponsors.html" . }}
-        {{ end }}
-
-        {{ if .Site.Params.contact.enable }}
-            {{ partial "contact.html" . }}
-        {{ end }}
-
-        {{ if .Site.Params.clients_list.enable }}
-            {{ partial "clients.html" . }}
         {{ end }}
 
         {{ if .Site.Params.footer.enable }}

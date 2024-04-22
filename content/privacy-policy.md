@@ -2,10 +2,11 @@
 title = "Privacy Policy"
 +++
 
-Updated February, 17th 2020
+Updated April, 30th 2024
 
 ### Scope
-Anna Piera Frascella, Arialdo Martini, Pierluigi Pugliese and Andrea Vallotti (“we”, “us”, “our”), organizers of “SoCraTes IT” 2020 (a “Conference”), are committed to protecting your personal information. We invite you to read this Privacy Policy, which explains the types of information collected and created in connection with the relevant Conference, how and why we use such information, who we share it with and your legal rights.
+Andrea Vallotti, Anna Piera Frascella, Arialdo Martini, Gianni Bossini
+and Pierluigi Pugliese (“we”, “us”, “our”), organizers of “SoCraTes IT” 2024 (a “Conference”), are committed to protecting your personal information. We invite you to read this Privacy Policy, which explains the types of information collected and created in connection with the relevant Conference, how and why we use such information, who we share it with and your legal rights.
 
 Unless indicated otherwise, this Privacy Policy relates to our use of any personal information we collect or use in relation to the following services (collectively, the “Services”):
 

@@ -171,9 +171,9 @@ logo = "logoi3.png"
 link = "http://www.intre.it"
 
 [[params.sponsor]]
-name = "Soluzioni Futura"
-logo = "soluzioni-futura.png"
-link = "https://www.soluzionifutura.it/"
+name = "Polarity"
+logo = "polarity.png"
+link = "https://polarity.dev"
 
 
 

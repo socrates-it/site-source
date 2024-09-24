@@ -187,6 +187,11 @@ name = "Connexxo"
 logo = "connexxo.png"
 link = "http://www.connexxo.com"
 
+[[params.sponsor]]
+name = "QMates"
+logo = "qmates.jpg"
+link = "https://qmates.tech/"
+
 
 [params.mediaPartners]
 title = "Media partners"

@@ -292,10 +292,12 @@
 
       </div>
       <!-- Schedule end -->
+      {{ if or (eq .Site.Params.state "RegistrationOpen") (eq .Site.Params.state "AnnouncementList")}}
       <div class="intro-text text-center">
           <!-- <a class="btn btn-xl highlighted" href="/registration">{{ with .Site.Params.navigation.contact }}{{ . | markdownify }}{{ end }}</a> -->
           <a class="btn btn-xl highlighted" href="/#">{{ with .Site.Params.navigation.contact }}{{ . | markdownify }}{{ end }}</a>
       </div>
+      {{ end }}
     </div>
   </div>
 </section>

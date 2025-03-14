@@ -22,6 +22,10 @@ ogTitle = "SoCraTes-IT"
 email = "socrates.italia@gmail.com"
 gforms = "153aAnAaKBsFqusTKXvyZjpgHbKx4LrhPVtn8VubkNKM"
 
+#state = "SoldOut"
+state = "ComingSoon"
+#state = "AnnouncementList"
+#state = "RegistrationOpen"
 
 [params.navigation]
 brand = "SoCraTes IT"
@@ -29,13 +33,15 @@ about = "About"
 schedule = "Schedule"
 portfolio = "Information"
 contact = "Sold out"
+#contactLink = "/registration"
 sponsors = "Sponsors"
 
 
 [params.hero]
-date = "3-4-5 October 2024"
+
+date = "2-3-4 October 2025"
 location = "Rimini"
-title = "Sold out"
+title = "Coming soon..."
 subtitle = "Opening soon"
 
 [params.about]
